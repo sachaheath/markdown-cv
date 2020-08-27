@@ -15,7 +15,7 @@ title: Sacha Heath
 
 ## __Research Interests__
 
-Avian conservation and ecology, conservation effectiveness, trophic interactions, agroecology, habitat selection, community ecology
+Avian ecology and conservation, conservation effectiveness, trophic interactions, agroecology, habitat selection, community ecology
 
 ## __Currently__
 
@@ -23,11 +23,11 @@ I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---wi
 
 ## __Education__
 
-`2011-2018` PhD Ecology. University of California, Davis. Davis, California, USA
+`2011-2018` **PhD Ecology**. *University of California, Davis*. Davis, California, USA
 
-`2009-2011` MSc Wildlife. Humboldt State University. Arcata, California, USA
+`2009-2011` **MSc Wildlife**. *Humboldt State University*. Arcata, California, USA
 
-`1988-1992` BA Environmental Studies. University of California, Santa Cruz. Santa Cruz, California, USA
+`1988-1992` **BA Environmental Studies**. *University of California, Santa Cruz*. Santa Cruz, California, USA
 
 ## __Employment__
 
@@ -104,7 +104,7 @@ __Heath, S. K.__, Fogel, Nina S., Mullikin, Jennifer C., & Hull, Trey. (2020). D
 __Heath, S. K.__. 2019. Data and Code for: Multiscale habitat mediates pest reduction by birds in an intensive agricultural region (Version 1.0) [Data set]. Ecosphere. Zenodo. [DOI: 10.5281/zenodo.3374039](https://zenodo.org/record/3374039)
 
 
-### __Scientific Journals__
+### __Journals__
 
 __Heath, S. K.__, and R. F. Long. 2019. Multiscale habitat mediates pest reduction by birds in an intensive agricultural region. Ecosphere 10(10):1-24. [DOI: 10.1002/ecs2.2884](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2884)
 
@@ -172,13 +172,13 @@ CalPIF (California Partners in Flight). 2002. [Version 1.1](http://www.prbo.org/
 
 RHJV (Riparian Habitat Joint Venture). 2001. Version 1.0. The riparian bird conservation plan: a strategy for reversing the decline of riparian associated birds in California. Version 1.0. California Partners in Flight. 
 
-## __Selected Research Grants and Contracts__
+## __Selected Grants and Contracts__
 
 `2018-2020` Wild Farm Alliance and Natural Resource Conservation Service Conservation Innovation Grant. “Key Learnings, Habitat Assessments and Conservation Opportunities for Using Beneficial Birds as Pest Control on Farms.” $64,181
 
 `2016` Audubon California. “Literature and field research design to investigate interactions between birds and almond orchards.” $7,500 
 
-Note: On the following grants or contracts, I was PI or Co-PI while employed by Point Blue Conservation Science (then PRBO Conservation Science).
+*Note: On the following grants or contracts, I was PI or Co-PI while employed by Point Blue Conservation Science (then PRBO Conservation Science)*.
 
 `2007-2008` Bureau of Land Management. “Off Highway Route Restoration Project: Avian Monitoring.” $75,000 
 
@@ -216,7 +216,7 @@ Note: On the following grants or contracts, I was PI or Co-PI while employed by 
 
 ## __Invited Symposia, Seminars, & Workshops__
 
-__Heath, S. K.__. 2020. Landscape cover and connectivity mediate avian body condition and overwinter survival in an intensive agroecosystem. Lightning Symposium: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers. 7th North American Ornithological Conference. Virtual conference.
+__Heath, S. K.__. 2020. Landscape cover and connectivity mediate avian body condition and overwinter survival in an intensive agroecosystem. *Lightning Symposium: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers*. 7th North American Ornithological Conference. Virtual conference.
 
 __Heath, S. K.__ 2019. Avian conservation and pest reduction services boosted by multiscale habitat in farming landscapes. Biology Department Seminar Series, Missouri State University. Springfield, MO.
 
