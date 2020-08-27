@@ -13,9 +13,9 @@ title: Sacha Heath
     
 </div>
 
-## __Research interests__
+## __Research Interests__
 
-Avian conservation and ecology, trophic interactions, agroecology, habitat selection, community ecology, conservation effectiveness.
+Avian conservation and ecology, conservation effectiveness, trophic interactions, agroecology, habitat selection, community ecology
 
 ## __Currently__
 
