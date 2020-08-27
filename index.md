@@ -160,7 +160,7 @@ __Heath, S. K.__ and G. Ballard. 2003. [Patterns of breeding songbird diversity 
 
 Baumgartner, J. A., S. Kross, S., __S. Heath__. 2019. [Supporting beneficial birds and managing pest birds](https://www.wildfarmalliance.org/bird_resource). Wild Farm Alliance.
 
-_Supporting author on the following_:
+Supporting author on the following:
 
 CalPIF (California Partners in Flight). 2005. [Version 1.0](http://www.prbo.org/calpif/htmldocs/sage.htm). The sagebrush bird conservation plan: a strategy for protecting and managing sagebrush habitats and associated birds in California. PRBO Conservation Science, Stinson Beach, CA.
 
@@ -174,45 +174,45 @@ RHJV (Riparian Habitat Joint Venture). 2001. Version 1.0. The riparian bird cons
 
 ## __Selected Research Grants and Contracts__
 
-`2018-2020` Wild Farm Alliance and Natural Resource Conservation Service Conservation Innovation Grant. “Key Learnings, Habitat Assessments and Conservation Opportunities for Using Beneficial Birds as Pest Control on Farms.” _$64,181_
+`2018-2020` Wild Farm Alliance and Natural Resource Conservation Service Conservation Innovation Grant. “Key Learnings, Habitat Assessments and Conservation Opportunities for Using Beneficial Birds as Pest Control on Farms.” $64,181
 
-`2016` Audubon California. “Literature and field research design to investigate interactions between birds and almond orchards.” _$7,500_ 
+`2016` Audubon California. “Literature and field research design to investigate interactions between birds and almond orchards.” $7,500 
 
-_Note: On the following grants or contracts, I was PI or Co-PI while employed by Point Blue Conservation Science (then PRBO Conservation Science)._
+Note: On the following grants or contracts, I was PI or Co-PI while employed by Point Blue Conservation Science (then PRBO Conservation Science).
 
-`2007-2008` Bureau of Land Management. “Off Highway Route Restoration Project: Avian Monitoring.” _$75,000_ 
+`2007-2008` Bureau of Land Management. “Off Highway Route Restoration Project: Avian Monitoring.” $75,000 
 
-`2006-2007` Bureau of Land Management. “Bishop Resource Area Aspen Stewardship Project: Avian Monitoring.” _$10,000, $7,270_ 
+`2006-2007` Bureau of Land Management. “Bishop Resource Area Aspen Stewardship Project: Avian Monitoring.” $10,000, $7,270 
 
-`2005-2007` Natural Resources Conservation Service Wetlands Reserve Program. “The key to adaptive restoration and management: all-bird monitoring on Adobe Valley, LLC Properties in Adobe Valley and Environs.” _$14,000, $21,400, $21,400_ 
+`2005-2007` Natural Resources Conservation Service Wetlands Reserve Program. “The key to adaptive restoration and management: all-bird monitoring on Adobe Valley, LLC Properties in Adobe Valley and Environs.” $14,000, $21,400, $21,400 
 
-`2005-2007` Bureau of Land Management/United States Geological Survey/Joint Fire Science. “Evaluation of Pinyon Removal Effects Typical of a Wildland-Urban Interface Fuels Reduction Project, Mono County, California: Avian Monitoring Component.” _$10,000, $10,000, $10,000_
+`2005-2007` Bureau of Land Management/United States Geological Survey/Joint Fire Science. “Evaluation of Pinyon Removal Effects Typical of a Wildland-Urban Interface Fuels Reduction Project, Mono County, California: Avian Monitoring Component.” $10,000, $10,000, $10,000
 
-`2003-2006` National Park Service Sierra Nevada Inventory and Monitoring Network. “Demographic bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” _$16,000, $15,000, $15,000, $15,000_
+`2003-2006` National Park Service Sierra Nevada Inventory and Monitoring Network. “Demographic bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” $16,000, $15,000, $15,000, $15,000
 
-`2006` National Forest Foundation and Friends of the Inyo. “Collaborative Jeffrey Pine Restoration Project.” _$8,865_ 
+`2006` National Forest Foundation and Friends of the Inyo. “Collaborative Jeffrey Pine Restoration Project.” $8,865 
 
-`2005` Yosemite National Park and Sierra Nevada Inventory and Monitoring Network. “Non- Native Vascular Plant Inventory of Riparian Areas in Yosemite National Park, California.” _$65,000_ 
+`2005` Yosemite National Park and Sierra Nevada Inventory and Monitoring Network. “Non- Native Vascular Plant Inventory of Riparian Areas in Yosemite National Park, California.” $65,000 
 
-`2005` Bureau of Land Management. “Eastern Sierra Riparian Songbird Conservation.” _$35,000_
+`2005` Bureau of Land Management. “Eastern Sierra Riparian Songbird Conservation.” $35,000
 
-`1998-2004` U.S. Forest Service Region 5 Partners in Flight Program. “Eastern Sierra Riparian Songbird Monitoring.” _$40,000, $30,000, $30,000, $30,000, $21,700, $21,687, $24,000_
+`1998-2004` U.S. Forest Service Region 5 Partners in Flight Program. “Eastern Sierra Riparian Songbird Monitoring.” $40,000, $30,000, $30,000, $30,000, $21,700, $21,687, $24,000
 
-`2004` Adobe Valley, LLC and Greenbridges, LLC. “Breeding bird assessment on Adobe Valley, LLC properties in Adobe Valley and environs.” _$10,000_ 
+`2004` Adobe Valley, LLC and Greenbridges, LLC. “Breeding bird assessment on Adobe Valley, LLC properties in Adobe Valley and environs.” $10,000 
 
-`2003` California Department of Fish and Game. “Eastern Sierra Riparian Songbird Conservation.” _$6,800_ 
+`2003` California Department of Fish and Game. “Eastern Sierra Riparian Songbird Conservation.” $6,800 
 
-`2003` Department of Defense, Mountain Warfare Marine Weapons Training Facility. “Riparian monitoring and habitat assessment in the West Walker River watershed.” _$12,000_ 
+`2003` Department of Defense, Mountain Warfare Marine Weapons Training Facility. “Riparian monitoring and habitat assessment in the West Walker River watershed.” $12,000 
 
-`2003` Neotropical Migratory Bird Conservation Act. “Eastern Sierra Riparian Songbird Conservation.” _$7,153_ 
+`2003` Neotropical Migratory Bird Conservation Act. “Eastern Sierra Riparian Songbird Conservation.” $7,153
 
-`1998-2002` National Fish and Wildlife Foundation, Bureau of Land Management.“Eastern Sierra Riparian Songbird Conservation.” _$50,000, $39,400, $39,400, $26,000, $30,000_ 
+`1998-2002` National Fish and Wildlife Foundation, Bureau of Land Management.“Eastern Sierra Riparian Songbird Conservation.” $50,000, $39,400, $39,400, $26,000, $30,000 
 
-`2002` National Park Service Small Parks Grants. “Demographic Bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” _$15,000_ 
+`2002` National Park Service Small Parks Grants. “Demographic Bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” $15,000 
 
-`2002` Los Angeles Department of Water and Power and Inyo County Water Department. “Riparian bird monitoring and habitat assessment in riverine/riparian habitats of the Lower Owens River Project.” _$25,000_ 
+`2002` Los Angeles Department of Water and Power and Inyo County Water Department. “Riparian bird monitoring and habitat assessment in riverine/riparian habitats of the Lower Owens River Project.” $25,000 
 
-`2000-2001` Humboldt-Toiyabe National Forest. “Riparian bird monitoring and habitat assessment in the East and West Walker River watershed.” _$23,000, $23,879_ 
+`2000-2001` Humboldt-Toiyabe National Forest. “Riparian bird monitoring and habitat assessment in the East and West Walker River watershed.” $23,000, $23,879 
 
 ## __Invited Symposia, Seminars, & Workshops__
 
@@ -278,7 +278,6 @@ Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ 1999. Current b
 
 ## __Scientific Peer Review__ 
 
-`[publons](https://publons.com/researcher/1290983/sacha-heath/peer-review/)`
 Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications 
 
 ## __Society Membership__
@@ -295,64 +294,64 @@ Heath, S. K. and Sandra Scoggin; co-organizers. 2002. California Partners in Fli
 
 ## __Additional Leadership & Service__
 
-*Grant proposal reviewer*. Mewaldt-King Student Research Award  
+Grant proposal reviewer. Mewaldt-King Student Research Award  
 
-_Grant proposal reviewer_. Jeff Maurer Chautauqua Research Grant
+Grant proposal reviewer. Jeff Maurer Chautauqua Research Grant
 
-_Board Member_. Mono Basin Science Council. 2003–present.
+Board Member. Mono Basin Science Council. 2003–present.
 
-_Co-Founder, Founding Board Member_. [Oikonos Ecosystem Knowledge](https://oikonos.org/), a non-profit 501(c)(3) research, art, and conservation organization. 
+Co-Founder, Founding Board Member. [Oikonos Ecosystem Knowledge](https://oikonos.org/), a non-profit 501(c)(3) research, art, and conservation organization. 
 
-_Co-Founder, Chair, Vice-chair_. [Diversity Committee](http://egsa.ucdavis.edu/diversity-committee.html), UC Davis Graduate Group in Ecology. 2013-2017.
+Co-Founder, Chair, Vice-chair. [Diversity Committee](http://egsa.ucdavis.edu/diversity-committee.html), UC Davis Graduate Group in Ecology. 2013-2017.
 
-_Co-Chair_. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive), UC Davis Graduate Group in Ecology. 2012. 
+Co-Chair. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive), UC Davis Graduate Group in Ecology. 2012. 
 
-_Assistant_. White Mountains Odyssey new student orientation, UC Davis. 2012.
+Assistant. White Mountains Odyssey new student orientation, UC Davis. 2012.
 
-_Committee Member_. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive). 2011. 
+Committee Member. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive). 2011. 
 
-_Chair_. Grant Selection Committee, Mono Basin Chautauqua Research Grant. 2002-2008. 
+Chair. Grant Selection Committee, Mono Basin Chautauqua Research Grant. 2002-2008. 
 
-_Member_. Sagebrush Bird Conservation Network. 2004–2007.
+Member. Sagebrush Bird Conservation Network. 2004–2007.
 
-_Member_. Riparian Habitat Joint Venture. 1997-2007.
+Member. Riparian Habitat Joint Venture. 1997-2007.
 
-_Co-Chair_. Mono Basin Bird Chautauqua organizing committee. 2002–2007. 
+Co-Chair. Mono Basin Bird Chautauqua organizing committee. 2002–2007. 
 
-_Coordinator_. Golondrinas de las Americas, Lee Vining Study Site. 2000–2006.
+Coordinator. Golondrinas de las Americas, Lee Vining Study Site. 2000–2006.
 
-_Co-Editor_. Scientific Research Column, Mono Lake Committee Newsletter. 2004-2005. 
+Co-Editor. Scientific Research Column, Mono Lake Committee Newsletter. 2004-2005. 
 
 
 ## __Teaching__
 
-_Presenter_. 2020. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
+Presenter. 2020. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
 
-_Teaching Assistant_. 2017. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+Teaching Assistant. 2017. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
 
-_Guest Lecturer_. 2017. Undergraduate course: Society and Conservation. Environmental Studies Program, California State University Sacramento.
+Guest Lecturer. 2017. Undergraduate course: Society and Conservation. Environmental Studies Program, California State University Sacramento.
 
-_Graduate Seminar Co-Instructor_. 2015. Ecological Intensification in California Agriculture: from Science to Practice (ENT 290). Department of Entomology, University of California, Davis. 
+Graduate Seminar Co-Instructor. 2015. Ecological Intensification in California Agriculture: from Science to Practice (ENT 290). Department of Entomology, University of California, Davis. 
 
-_Teaching Assistant_. 2014. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+Teaching Assistant. 2014. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
 
-_Teaching Assistant_. 2014. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+Teaching Assistant. 2014. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
 
-_Teaching Assistant_. 2013. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+Teaching Assistant. 2013. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
 
-_Undergraduate Mentor_. 2011. Pollination Biology (BOT 458). Department of Biological Sciences, Humboldt State University, Arcata, CA.
+Undergraduate Mentor. 2011. Pollination Biology (BOT 458). Department of Biological Sciences, Humboldt State University, Arcata, CA.
 
-_Lead Instructor_. 1997-2007. Landbird Monitoring Training Courses. PRBO Conservation Science. 
+Lead Instructor. 1997-2007. Landbird Monitoring Training Courses. PRBO Conservation Science. 
 
-_Teaching Assistant_. 1994. Natural History Field Quarter (ENVS 107). Department of Environmental Studies, University of California, Santa Cruz.
+Teaching Assistant. 1994. Natural History Field Quarter (ENVS 107). Department of Environmental Studies, University of California, Santa Cruz.
 
-_Teaching Assistant_. 1992. Environmental Ethics (ENVS 179). Department of Environmental Studies, University of California, Santa Cruz.
+Teaching Assistant. 1992. Environmental Ethics (ENVS 179). Department of Environmental Studies, University of California, Santa Cruz.
 
-_Teaching Assistant_. 1992. Introduction to Contemporary Environmental Issues (ENVS 31). University of California Extension, Santa Cruz.
+Teaching Assistant. 1992. Introduction to Contemporary Environmental Issues (ENVS 31). University of California Extension, Santa Cruz.
 
-_Teaching Assistant_. 1992. Practicum: Environmental Field Study (ENVS 14). University of California Extension, Santa Cruz.
+Teaching Assistant. 1992. Practicum: Environmental Field Study (ENVS 14). University of California Extension, Santa Cruz.
 
-_Teaching Assistant_. 1992. Introduction to Cultural Geography (ENVS 21). University of California Extension, Santa Cruz.
+Teaching Assistant. 1992. Introduction to Cultural Geography (ENVS 21). University of California Extension, Santa Cruz.
 
 ## __Outreach__
 
