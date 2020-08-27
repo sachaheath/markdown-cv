@@ -455,8 +455,8 @@ Tekulsky, M. (2004, February 3). [Birding Column: Banding Birds at Devils Postpi
 
 
 
-<!-- ### Footer
-
-Last updated: 27 August 2020 -->
-
+@media print { 
+ /* All your print styles go here */
+ #header, #footer, #nav { display: none !important; } 
+}
 
