@@ -7,7 +7,9 @@ Ecological and Conservation Research
 
 <div id="www.sachaheath.com">
 <a href="sachakheath@gmail.com">sachakheath@gmail.com</a>
-| <a href="https://twitter.com/sachaheath">@sachaheath</a>
+| <a href="https://twitter.com/sachaheath">@sachaheath</a> 
+| <a href="https://www.sachaheath.com/">sachaheath.com</a>
+  
 </div>
 
 
@@ -101,9 +103,9 @@ __BA Environmental Studies__ University of California, Santa Cruz. Santa Cruz, C
 
 ### Data and Code
 
-__Heath, S. K.__, Fogel, Nina S., Mullikin, Jennifer C., & Hull, Trey. 2020. [Data and code for Chapter 1: An expanded scope of biodiversity in urban agriculture, with implications for conservation. (Version 1.0.0)](https://zenodo.org/record/3989949). Data set. Urban Agroecology: Past, Present, and Future Directions in Interdisciplinary Research. Abingdon, UK: Taylor & Francis. 
+__Heath, S. K.__, Fogel, Nina S., Mullikin, Jennifer C., & Hull, Trey. (2020). Data and code for Chapter 1: An expanded scope of biodiversity in urban agriculture, with implications for conservation. (Version 1.0.0) [Data set]. Urban Agroecology: Past, Present, and Future Directions in Interdisciplinary Research. Abingdon, UK: CRC Press, Taylor & Francis. [DOI: 10.5281/zenodo.3989949](https://zenodo.org/record/3989949)
 
-__Heath, S. K.__. 2019. [Data and Code for: Multiscale habitat mediates pest reduction by birds in an intensive agricultural region (Version 1.0)](https://zenodo.org/record/3374039). Data set. Ecosphere. Zenodo. 
+__Heath, S. K.__. 2019. Data and Code for: Multiscale habitat mediates pest reduction by birds in an intensive agricultural region (Version 1.0) [Data set]. Ecosphere. Zenodo. [DOI: 10.5281/zenodo.3374039](https://zenodo.org/record/3374039)
 
 
 ### Refereed Scientific Journals
@@ -279,9 +281,9 @@ __Heath, S. K.__ and G. Ballard. 2001. Riparian songbird and habitat relationshi
 
 Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ 1999. Current breeding distribution of passerines in riparian habitat in California’s Central Valley and Eastern Sierra: Range reduction and predictive models of habitat features. 117th Stated Meeting of the American Ornithologists’ Union. Ithaca, NY. (co-presenter of poster with G. Ballard).
 
-## [Scientific peer review](https://publons.com/researcher/1290983/sacha-heath/peer-review/) 
+## Scientific peer review 
 
-Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications
+Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications [publons](https://publons.com/researcher/1290983/sacha-heath/peer-review/) 
 
 
 ## Society Membership
