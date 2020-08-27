@@ -7,7 +7,7 @@ title: Sacha Heath
 # Sacha K. Heath
 
 <div id="webaddress">
-<a href=mailto:"sachakheath@gmail.com">sachakheath at gmail dot com</a>
+<a href="sachakheath@gmail.com">sachakheath[at]gmail[dot]com</a>
 | <a href="https://www.sachaheath.com/">sachaheath.com</a>
   | <a href="https://twitter.com/sachaheath">@sachaheath</a> 
     
