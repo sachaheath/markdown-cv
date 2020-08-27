@@ -104,7 +104,7 @@ __Heath, S. K.__, Fogel, Nina S., Mullikin, Jennifer C., & Hull, Trey. (2020). D
 __Heath, S. K.__. 2019. Data and Code for: Multiscale habitat mediates pest reduction by birds in an intensive agricultural region (Version 1.0) [Data set]. Ecosphere. Zenodo. [DOI: 10.5281/zenodo.3374039](https://zenodo.org/record/3374039)
 
 
-### __Journals__
+### __Journal Articles__
 
 __Heath, S. K.__, and R. F. Long. 2019. Multiscale habitat mediates pest reduction by birds in an intensive agricultural region. Ecosphere 10(10):1-24. [DOI: 10.1002/ecs2.2884](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2884)
 
@@ -318,40 +318,40 @@ Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation;
 
 `2002–2007` *Co-Chair*. Mono Basin Bird Chautauqua organizing committee. 
 
-*Coordinator*. Golondrinas de las Americas, Lee Vining Study Site. 2000–2006.
+`2000–2006` *Coordinator*. Golondrinas de las Americas, Lee Vining Study Site. 
 
-*Co-Editor*. Scientific Research Column, Mono Lake Committee Newsletter. 2004-2005. 
+`2004-2005` *Co-Editor*. Scientific Research Column, Mono Lake Committee Newsletter. 
 
 
 ## __Teaching__
 
-*Presenter*. 2020. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
+`2020` *Presenter*. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
 
-*Teaching Assistant*. 2017. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+`2017` *Teaching Assistant*. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
 
-*Guest Lecturer*. 2017. Undergraduate course: Society and Conservation. Environmental Studies Program, California State University Sacramento.
+`2017`*Guest Lecturer*. Undergraduate course: Society and Conservation. Environmental Studies Program, California State University Sacramento.
 
-*Graduate Seminar Co-Instructor*. 2015. Ecological Intensification in California Agriculture: from Science to Practice (ENT 290). Department of Entomology, University of California, Davis. 
+`2015` *Graduate Seminar Co-Instructor*. Ecological Intensification in California Agriculture: from Science to Practice (ENT 290). Department of Entomology, University of California, Davis. 
 
-*Teaching Assistant*. 2014. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+`2014` *Teaching Assistant*. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
 
-*Teaching Assistant*. 2014. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+`2014` *Teaching Assistant*. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
 
-*Teaching Assistant*. 2013. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+`2013`*Teaching Assistant*. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
 
-*Undergraduate Mentor*. 2011. Pollination Biology (BOT 458). Department of Biological Sciences, Humboldt State University, Arcata, CA.
+`2011`*Undergraduate Mentor*. Pollination Biology (BOT 458). Department of Biological Sciences, Humboldt State University, Arcata, CA.
 
-*Lead Instructor*. 1997-2007. Landbird Monitoring Training Courses. PRBO Conservation Science. 
+`1997-2007` *Lead Instructor*. Landbird Monitoring Training Courses. PRBO Conservation Science. 
 
-*Teaching Assistant*. 1994. Natural History Field Quarter (ENVS 107). Department of Environmental Studies, University of California, Santa Cruz.
+`1994`*Teaching Assistant*. Natural History Field Quarter (ENVS 107). Department of Environmental Studies, University of California, Santa Cruz.
 
-*Teaching Assistant*. 1992. Environmental Ethics (ENVS 179). Department of Environmental Studies, University of California, Santa Cruz.
+`1992`*Teaching Assistant*. Environmental Ethics (ENVS 179). Department of Environmental Studies, University of California, Santa Cruz.
 
-*Teaching Assistant*. 1992. Introduction to Contemporary Environmental Issues (ENVS 31). University of California Extension, Santa Cruz.
+`1992` *Teaching Assistant*. Introduction to Contemporary Environmental Issues (ENVS 31). University of California Extension, Santa Cruz.
 
-*Teaching Assistant*. 1992. Practicum: Environmental Field Study (ENVS 14). University of California Extension, Santa Cruz.
+`1992` *Teaching Assistant*. Practicum: Environmental Field Study (ENVS 14). University of California Extension, Santa Cruz.
 
-*Teaching Assistant*. 1992. Introduction to Cultural Geography (ENVS 21). University of California Extension, Santa Cruz.
+`1992` *Teaching Assistant*. Introduction to Cultural Geography (ENVS 21). University of California Extension, Santa Cruz.
 
 ## __Outreach__
 
