@@ -1,58 +1,56 @@
 ---
 layout: cv
-title: Sacha Heath's CV
+title: Sacha Heath
 ---
 # Sacha K. Heath
-Ecological and Conservation Research
 
-<div id="www.sachaheath.com">
-<a href="sachakheath@gmail.com">sachakheath@gmail.com</a>
-| <a href="https://twitter.com/sachaheath">@sachaheath</a> 
-| <a href="https://www.sachaheath.com/">sachaheath.com</a>
-  
+<div id="webaddress">
+<a href="www.sachaheath.com">sachaheath.com</a>
+| <a href="sachakheath@gmail.com">sachakheath@gmail.com</a>
+  | <a href="https://twitter.com/sachaheath">@sachaheath</a> 
+    
 </div>
 
 
-## Currently
-
-I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---with mentors at Saint Louis University, Washington University, and the Saint Louis Zoo. In collaboration with St. Louis Audubon's Bring Conservation Home program I am studying the effectiveness of residential native plant gardens in improving functional bird habitat along an urbanization gradient. 
-
-### Research interests
+## __Research interests__
 
 Avian conservation and ecology, trophic interactions, agroecology, habitat selection, community ecology, conservation effectiveness.
 
-## Education
+## __Currently__
 
-`2011-2018`
-__PhD Ecology__ University of California, Davis. Davis, California, USA
+I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---with mentors at Saint Louis University, Washington University, and the Saint Louis Zoo. In collaboration with St. Louis Audubon's Bring Conservation Home program I am studying the effectiveness of residential native plant gardens in improving functional bird habitat along an urbanization gradient. 
 
-`2009-2011`
-__MSc Wildlife__ Humboldt State University. Arcata, California, USA
+## __Education__
 
-`1988-1992`
-__BA Environmental Studies__ University of California, Santa Cruz. Santa Cruz, California, USA
+`2011-2018` PhD Ecology. University of California, Davis. Davis, California, USA
 
-## Employment
+`2009-2011` MSc Wildlife. Humboldt State University. Arcata, California, USA
+
+`1988-1992` BA Environmental Studies. University of California, Santa Cruz. Santa Cruz, California, USA
+
+## __Employment__
 
 `2019-present`Postdoctoral Fellow. Living Earth Collaborative, Washington University. St. Louis, MO.
 
 `2018-2019`Independent Sub-contractor. Wild Farm Alliance contract with Natural Resources Conservation Service. 
 
-`2019-present`Research Associate. Point Blue Conservation Science. Petaluma, CA.
+`2017`Teaching Assistant. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
 
-`2017, 2014`Teaching Assistant. Department of Plant Sciences, University of California, Davis. Undergraduate course: Introduction to Sustainable Agriculture.
-
-`2016`Independent Contractor. Audubon California and Almond Board of California.
+`2016`Independent Sub-contractor. Audubon California contract with Almond Board of California.
 
 `2016-2017`Graduate Student Researcher. Lab of Dr. Marcel Holyoak, Department of Environmental Science and Policy, University of California, Davis.
 
 `2016`Statistical Consultant to Farm Advisor for Field Crops and Pest Management. University of California Cooperative Extension.
 
-`2014, 2013`Teaching Assistant. Department of Environmental Science and Policy, University of California, Davis. Graduate course: Principles and Applications of Ecology.
+`2014`Teaching Assistant. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
 
-`2013`	Lab Technician. University of California Cooperative Extension, Division of Agriculture and Natural Resources.
+`2014`Teaching Assistant. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
 
-`2000-2010`	Program Director (2000-2008) and part time staff (2008-2010). Eastern Sierra Nevada Program, Terrestrial Ecology Division, Point Blue Conservation Science. 
+`2013`Teaching Assistant. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
+
+`2013`Lab Technician. University of California Cooperative Extension, Division of Agriculture and Natural Resources.
+
+`2000-2010`	Program Director (2000-2008) and part time staff ecologist (2008-2010). Eastern Sierra Nevada Program, Terrestrial Ecology Division, Point Blue Conservation Science. 
 
 `1998-2000`	Lead Project Biologist. Eastern Sierra Nevada projects, Terrestrial Ecology Division, Point Blue Conservation Science.
 
@@ -64,8 +62,7 @@ __BA Environmental Studies__ University of California, Santa Cruz. Santa Cruz, C
 
 `1995`	Research Assistant. California Condor Recovery Program. U.S. Fish & Wildlife Service.
 
-
-## Fellowships
+## __Fellowships__
 
 `2015-2016`	Dissertation Year Fellowship, University of California, Davis. 
 
@@ -75,7 +72,7 @@ __BA Environmental Studies__ University of California, Santa Cruz. Santa Cruz, C
 
 `2010-2013` National Science Foundation Graduate Research Fellowship.
 
-## Awards and Honors
+## __Awards and Honors__
 
 `2013, 2014, 2015` Henry A. Jastro Research Scholarship, University of California, Davis 
 
@@ -97,18 +94,16 @@ __BA Environmental Studies__ University of California, Santa Cruz. Santa Cruz, C
 
 `1992` Senior Thesis Honors in Environmental Studies, University of California, Santa Cruz
 
-## Publications
+## __Publications__
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=4KPm3fUAAAAJ&hl=en) -->
-
-### Data and Code
+### __Data & Code__
 
 __Heath, S. K.__, Fogel, Nina S., Mullikin, Jennifer C., & Hull, Trey. (2020). Data and code for Chapter 1: An expanded scope of biodiversity in urban agriculture, with implications for conservation. (Version 1.0.0) [Data set]. Urban Agroecology: Past, Present, and Future Directions in Interdisciplinary Research. Abingdon, UK: CRC Press, Taylor & Francis. [DOI: 10.5281/zenodo.3989949](https://zenodo.org/record/3989949)
 
 __Heath, S. K.__. 2019. Data and Code for: Multiscale habitat mediates pest reduction by birds in an intensive agricultural region (Version 1.0) [Data set]. Ecosphere. Zenodo. [DOI: 10.5281/zenodo.3374039](https://zenodo.org/record/3374039)
 
 
-### Refereed Scientific Journals
+### __Scientific Journals__
 
 __Heath, S. K.__, and R. F. Long. 2019. Multiscale habitat mediates pest reduction by birds in an intensive agricultural region. Ecosphere 10(10):1-24. [DOI: 10.1002/ecs2.2884](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2884)
 
@@ -148,20 +143,19 @@ Richardson, T. W. and __S. K. Heath__. 2004. Effects of conifers on aspen-breedi
 
 __Heath, S. K.__ and G. Ballard. 2003. Bird species composition, phenology, nesting substrate, and productivity for the Owens Valley alluvial fan, Eastern Sierra Nevada, California 1998-2002. [Great Basin Birds 6:18-35](https://www.sachaheath.com/uploads/1/6/9/8/16984014/heath_ballard_-_2003_-_bird_species_composition_phenology_nesting_substrate_and_productivity_for_the_owens_valley_alluvial_fan_eastern_sierra_nevada_california_1998-2002.pdf).
 
-### Book Chapters
+### __Book Chapters__
 
 __Heath, S. K.__, N. S. Fogel, J. C. Mullikin, and T. Hull. *In press*. An expanded scope of biodiversity in urban agriculture, with implications for conservation, *in* Urban Agroecology: Past, Present, and Future Directions in Interdisciplinary Research (Monika Egerer and Hamutahl Cohen, Editors). Abingdon, UK. CRC Press, Taylor & Francis.
 
 __Heath, S. K.__  2008. Yellow Warbler (Dendroica petechia). In California Bird Species of Special Concern: A ranked assessment of species, subspecies, and distinct populations of birds of immediate conservation concern in California (W. D. Shuford and T. Gardali, eds.), [pp. 332-339. Studies of Western Birds 1](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=10425&inline).
 
-__Heath, S. K.__  2008. Sonora Yellow Warbler (Dendroica petechia sonorana). In California Bird Species of Special Concern: A ranked assessment of species, subspecies, and distinct populations of birds of immediate conservation concern in California (W. D. Shuford and T. Gardali, eds.), [pp. 340-
-345. Studies of Western Birds 1](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=10426&inline).
+__Heath, S. K.__  2008. Sonora Yellow Warbler (Dendroica petechia sonorana). In California Bird Species of Special Concern: A ranked assessment of species, subspecies, and distinct populations of birds of immediate conservation concern in California (W. D. Shuford and T. Gardali, eds.), [pp. 340-345. Studies of Western Birds 1](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=10426&inline).
 
-### Conference Proceedings
+### __Conference Proceedings__
 
 __Heath, S. K.__ and G. Ballard. 2003. [Patterns of breeding songbird diversity and occurrence in riparian habitats of the Eastern Sierra Nevada](http://www.prbo.org/cms/docs/terre/Heath%20and%20Ballard_2003.RiparianConProc.pdf). In California Riparian Systems: Processes and Floodplain Management, Ecology, and Restoration (P.M. Faber, ed.). RHJV, Sacramento, CA.
 
-### Consevation Plans & Management Guides
+### __Consevation Plans & Management Guides__
 
 Baumgartner, J. A., S. Kross, S., __S. Heath__. 2019. [Supporting beneficial birds and managing pest birds](https://www.wildfarmalliance.org/bird_resource). Wild Farm Alliance.
 
@@ -176,50 +170,50 @@ CalPIF (California Partners in Flight). 2002. [Version 1.1](http://www.prbo.org/
 
 RHJV (Riparian Habitat Joint Venture). 2001. Version 1.0. The riparian bird conservation plan: a strategy for reversing the decline of riparian associated birds in California. Version 1.0. California Partners in Flight. 
 
-## Selected Research Grants and Contracts
+## __Selected Research Grants and Contracts__
 
-`2018-2020` Wild Farm Alliance and Natural Resource Conservation Service Conservation Innovation Grant. “Key Learnings, Habitat Assessments and Conservation Opportunities for Using Beneficial Birds as Pest Control on Farms.” *$64,181* 
+`2018-2020` Wild Farm Alliance and Natural Resource Conservation Service Conservation Innovation Grant. “Key Learnings, Habitat Assessments and Conservation Opportunities for Using Beneficial Birds as Pest Control on Farms.” **$64,181**
 
-`2016` Audubon California. “Literature and field research design to investigate interactions between birds and almond orchards.” *$7,500* 
+`2016` Audubon California. “Literature and field research design to investigate interactions between birds and almond orchards.” **$7,500** 
 
-*Note: On the following grants or contracts, I was PI or Co-PI while employed by Point Blue Conservation Science (then PRBO Conservation Science).*
+**Note: On the following grants or contracts, I was PI or Co-PI while employed by Point Blue Conservation Science (then PRBO Conservation Science).**
 
-`2007-2008` Bureau of Land Management. “Off Highway Route Restoration Project: Avian Monitoring.” *$75,000* 
+`2007-2008` Bureau of Land Management. “Off Highway Route Restoration Project: Avian Monitoring.” **$75,000** 
 
-`2006-2007` Bureau of Land Management. “Bishop Resource Area Aspen Stewardship Project: Avian Monitoring.” *$10,000, $7,270* 
+`2006-2007` Bureau of Land Management. “Bishop Resource Area Aspen Stewardship Project: Avian Monitoring.” **$10,000, $7,270** 
 
-`2005-2007` Natural Resources Conservation Service Wetlands Reserve Program. “The key to adaptive restoration and management: all-bird monitoring on Adobe Valley, LLC Properties in Adobe Valley and Environs.” *$14,000, $21,400, $21,400* 
+`2005-2007` Natural Resources Conservation Service Wetlands Reserve Program. “The key to adaptive restoration and management: all-bird monitoring on Adobe Valley, LLC Properties in Adobe Valley and Environs.” **$14,000, $21,400, $21,400** 
 
-`2005-2007` Bureau of Land Management/United States Geological Survey/Joint Fire Science. “Evaluation of Pinyon Removal Effects Typical of a Wildland-Urban Interface Fuels Reduction Project, Mono County, California: Avian Monitoring Component.” *$10,000, $10,000, $10,000*
+`2005-2007` Bureau of Land Management/United States Geological Survey/Joint Fire Science. “Evaluation of Pinyon Removal Effects Typical of a Wildland-Urban Interface Fuels Reduction Project, Mono County, California: Avian Monitoring Component.” **$10,000, $10,000, $10,000**
 
-`2003-2006` National Park Service Sierra Nevada Inventory and Monitoring Network. “Demographic bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” *$16,000, $15,000, $15,000, $15,000*
+`2003-2006` National Park Service Sierra Nevada Inventory and Monitoring Network. “Demographic bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” **$16,000, $15,000, $15,000, $15,000**
 
-`2006` National Forest Foundation and Friends of the Inyo. “Collaborative Jeffrey Pine Restoration Project.” *$8,865* 
+`2006` National Forest Foundation and Friends of the Inyo. “Collaborative Jeffrey Pine Restoration Project.” **$8,865** 
 
-`2005` Yosemite National Park and Sierra Nevada Inventory and Monitoring Network. “Non- Native Vascular Plant Inventory of Riparian Areas in Yosemite National Park, California.” *$65,000* 
+`2005` Yosemite National Park and Sierra Nevada Inventory and Monitoring Network. “Non- Native Vascular Plant Inventory of Riparian Areas in Yosemite National Park, California.” **$65,000** 
 
-`2005` Bureau of Land Management. “Eastern Sierra Riparian Songbird Conservation.” *$35,000* 
+`2005` Bureau of Land Management. “Eastern Sierra Riparian Songbird Conservation.” **$35,000** 
 
-`1998-2004` U.S. Forest Service Region 5 Partners in Flight Program. “Eastern Sierra Riparian Songbird Monitoring.” *$40,000, $30,000, $30,000, $30,000, $21,700, $21,687, $24,000*
+`1998-2004` U.S. Forest Service Region 5 Partners in Flight Program. “Eastern Sierra Riparian Songbird Monitoring.” **$40,000, $30,000, $30,000, $30,000, $21,700, $21,687, $24,000**
 
-`2004` Adobe Valley, LLC and Greenbridges, LLC. “Breeding bird assessment on Adobe Valley, LLC properties in Adobe Valley and environs.” *$10,000* 
+`2004` Adobe Valley, LLC and Greenbridges, LLC. “Breeding bird assessment on Adobe Valley, LLC properties in Adobe Valley and environs.” **$10,000** 
 
-`2003` California Department of Fish and Game. “Eastern Sierra Riparian Songbird Conservation.” *$6,800* 
+`2003` California Department of Fish and Game. “Eastern Sierra Riparian Songbird Conservation.” **$6,800** 
 
-`2003` Department of Defense, Mountain Warfare Marine Weapons Training Facility. “Riparian monitoring and habitat assessment in the West Walker River watershed.” *$12,000* 
+`2003` Department of Defense, Mountain Warfare Marine Weapons Training Facility. “Riparian monitoring and habitat assessment in the West Walker River watershed.” **$12,000** 
 
-`2003` Neotropical Migratory Bird Conservation Act. “Eastern Sierra Riparian Songbird Conservation.” *$7,153* 
+`2003` Neotropical Migratory Bird Conservation Act. “Eastern Sierra Riparian Songbird Conservation.” **$7,153** 
 
-`1998-2002` National Fish and Wildlife Foundation, Bureau of Land Management.“Eastern Sierra Riparian Songbird Conservation.” *$50,000, $39,400, $39,400, $26,000, $30,000* 
+`1998-2002` National Fish and Wildlife Foundation, Bureau of Land Management.“Eastern Sierra Riparian Songbird Conservation.” **$50,000, $39,400, $39,400, $26,000, $30,000** 
 
-`2002` National Park Service Small Parks Grants. “Demographic Bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” *$15,000* 
+`2002` National Park Service Small Parks Grants. “Demographic Bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” **$15,000** 
 
-`2002` Los Angeles Department of Water and Power and Inyo County Water Department. “Riparian bird monitoring and habitat assessment in riverine/riparian habitats of the Lower Owens River Project.” *$25,000* 
+`2002` Los Angeles Department of Water and Power and Inyo County Water Department. “Riparian bird monitoring and habitat assessment in riverine/riparian habitats of the Lower Owens River Project.” **$25,000** 
 
-`2000-2001` Humboldt-Toiyabe National Forest. “Riparian bird monitoring and habitat assessment in the East and West Walker River watershed.” *$23,000, $23,879* 
+`2000-2001` Humboldt-Toiyabe National Forest. “Riparian bird monitoring and habitat assessment in the East and West Walker River watershed.” **$23,000, $23,879** 
 
 
-## Invited research symposia, seminars, and workshops
+## __Invited Symposia, Seminars, & Workshops__
 
 __Heath, S. K.__. 2020. Landscape cover and connectivity mediate avian body condition and overwinter survival in an intensive agroecosystem. Lightning Symposium: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers. 7th North American Ornithological Conference. Virtual conference.
 
@@ -249,7 +243,7 @@ __Heath, S. K.__ 2006. It's not just the water! Riparian bird habitat considerat
 
 __Heath, S. K.__ and G. Ballard. 2006. Breeding bird species richness and occurrence in riparian aspen habitat of the eastern Sierra Nevada: are all aspen groves the same? The Wildlife Society Western Section, Aspen Symposium. Rohnert Park, CA. (poster)
 
-## Contributed Reseaerch Presentation, Posters, and Abstracts
+## __Contributed Presentation, Posters, & Abstracts__
 
 __Heath, S. K.__ 2019. Seminatural landscape cover and crop characteristics mediate pest reduction by birds in an intensive agricultural region. Ecological Society of America. Louisville, KY.
 
@@ -281,94 +275,90 @@ __Heath, S. K.__ and G. Ballard. 2001. Riparian songbird and habitat relationshi
 
 Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ 1999. Current breeding distribution of passerines in riparian habitat in California’s Central Valley and Eastern Sierra: Range reduction and predictive models of habitat features. 117th Stated Meeting of the American Ornithologists’ Union. Ithaca, NY. (co-presenter of poster with G. Ballard).
 
-## Scientific peer review 
+## __Scientific Peer Review__ 
 
 Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications [publons](https://publons.com/researcher/1290983/sacha-heath/peer-review/) 
 
 
-## Society Membership
+## __Society Membership__
 
 Ecological Society of America, American Society of Ornithology, Society for Conservation Biology, The Wildlife Society
 
 
-## Organized Research Symposia
+## __Organized Research Symposia__
 
-__Heath, S. K.__ and Matthew. D. Johnson. 2020. Lightning Symposium and Presenter Panel: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers. 7th North American Ornithological Conference. Virtual conference.
+Heath, S. K. and Matthew. D. Johnson; co-organizers. 2020. Lightning Symposium and Presenter Panel: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers. 7th North American Ornithological Conference. Virtual conference.
 
-__Heath, S. K.__  Kim Kreitinger. 2006. Conservation and management of upland birds and habitats in eastern California: a synthesis of issues and solutions for sagebrush, desert, and grassland bird populations. UC White Mountain Resaerch Station and Intermountain West Joint Venture, Bishop, CA.
+Heath, S. K.  Kim Kreitinger; co-organizers. 2006. Conservation and management of upland birds and habitats in eastern California: a synthesis of issues and solutions for sagebrush, desert, and grassland bird populations. UC White Mountain Resaerch Station and Intermountain West Joint Venture, Bishop, CA.
 
-__Heath, S. K.__ and Sandra Scoggin. 2002. California Partners in Flight bi-annual meeting. Lee Vining, CA. 2002. 
-
-
-## Additional Leadership and Service
-
-*Grant proposal reviewer* Mewaldt-King Student Research Award  
-
-*Grant proposal reviewer* Jeff Maurer Chautauqua Research Grant
-
-*Board Member*: Mono Basin Science Council. 2003–present.
-
-*Co-Founder, Founding Board Member*. [Oikonos Ecosystem Knowledge](https://oikonos.org/), a non-profit 501(c)(3) research, art, and conservation organization. 
-
-*Co-Founder, Chair, Vice-chair*. [Diversity Committee](http://egsa.ucdavis.edu/diversity-committee.html), UC Davis Graduate Group in Ecology. 2013-2017.
-
-*Co-Chair*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive), UC Davis Graduate Group in Ecology. 2012. 
-
-*Assistant*. White Mountains Odyssey new student orientation, UC Davis. 2012.
-
-*Representative (Alternate)*. Graduate Student Association, UC Davis. 2011 - 2012.
-
-*Committee Member*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive). 2011. 
-
-*Chair*. Grant Selection Committee, Mono Basin Chautauqua Research Grant. 2002-2008. 
-
-*Member*. Sagebrush Bird Conservation Network. 2004–2007.
-
-*Member*. [Riparian Habitat Joint Venture](http://www.rhjv.org/). 1997-2007.
-
-*Co-Chair*. Mono Basin Bird Chautauqua organizing committee. 2002–2007. 
-
-*Member*. Research and Monitoring Committee, [California Partners in Flight](http://www.prbo.org/calpif/). 2003–2006. 
-
-*Coordinator*. Golondrinas de las Americas, Lee Vining Study Site. 2000–2006.
-
-*Co-Editor*. Scientific Research Column, Mono Lake Committee Newsletter. 2004-2005. 
+Heath, S. K. and Sandra Scoggin; co-organizers. 2002. California Partners in Flight bi-annual meeting. Lee Vining, CA. 2002. 
 
 
-## Teaching
+## __Additional Leadership & Service__
 
-*Presenter* 2020. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
+**Grant proposal reviewer** Mewaldt-King Student Research Award  
 
-*Teaching Assistant*. 2017. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+**Grant proposal reviewer** Jeff Maurer Chautauqua Research Grant
 
-*Guest Lecturer*. 2017. Undergraduate course: Society and Conservation. Environmental Studies Program, California State University Sacramento.
+**Board Member**: Mono Basin Science Council. 2003–present.
 
-*Graduate Seminar Co-Instructor*. 2015. Ecological Intensification in California Agriculture: from Science to Practice (ENT 290). Department of Entomology, University of California, Davis. 
+**Co-Founder, Founding Board Member**. [Oikonos Ecosystem Knowledge](https://oikonos.org/), a non-profit 501(c)(3) research, art, and conservation organization. 
 
-*Teaching Assistant*. 2014. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+**Co-Founder, Chair, Vice-chair**. [Diversity Committee](http://egsa.ucdavis.edu/diversity-committee.html), UC Davis Graduate Group in Ecology. 2013-2017.
 
-*Teaching Assistant*. 2014. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+**Co-Chair**. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive), UC Davis Graduate Group in Ecology. 2012. 
 
-*Teaching Assistant*. 2013. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+**Assistant**. White Mountains Odyssey new student orientation, UC Davis. 2012.
 
-*Undergraduate Mentor*. 2011. Pollination Biology (BOT 458). Department of Biological Sciences, Humboldt State University, Arcata, CA.
+**Committee Member**. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive). 2011. 
 
-*Lead Instructor*. 1997-2007. Landbird Monitoring Training Courses. PRBO Conservation Science. 
+**Chair**. Grant Selection Committee, Mono Basin Chautauqua Research Grant. 2002-2008. 
 
-*Teaching Assistant*. 1994. Natural History Field Quarter (ENVS 107). Department of Environmental Studies, University of California, Santa Cruz.
+**Member**. Sagebrush Bird Conservation Network. 2004–2007.
 
-*Teaching Assistant*. 1992. Environmental Ethics (ENVS 179). Department of Environmental Studies, University of California, Santa Cruz.
+**Member**. [Riparian Habitat Joint Venture](http://www.rhjv.org/). 1997-2007.
 
-*Teaching Assistant*. 1992. Introduction to Contemporary Environmental Issues (ENVS 31). University of California Extension, Santa Cruz.
+**Co-Chair**. Mono Basin Bird Chautauqua organizing committee. 2002–2007. 
 
-*Teaching Assistant*. 1992. Practicum: Environmental Field Study (ENVS 14). University of California Extension, Santa Cruz.
+**Coordinator**. Golondrinas de las Americas, Lee Vining Study Site. 2000–2006.
 
-*Teaching Assistant*. 1992. Introduction to Cultural Geography (ENVS 21). University of California Extension, Santa Cruz.
+**Co-Editor**. Scientific Research Column, Mono Lake Committee Newsletter. 2004-2005. 
 
 
-## Outreach
+## __Teaching__
 
-### Community Presentation, Webinars, and Workshops
+**Presenter** 2020. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
+
+**Teaching Assistant**. 2017. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+
+**Guest Lecturer**. 2017. Undergraduate course: Society and Conservation. Environmental Studies Program, California State University Sacramento.
+
+**Graduate Seminar Co-Instructo*r*. 2015. Ecological Intensification in California Agriculture: from Science to Practice (ENT 290). Department of Entomology, University of California, Davis. 
+
+**Teaching Assistant**. 2014. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+
+**Teaching Assistant**. 2014. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+
+**Teaching Assistant**. 2013. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+
+**Undergraduate Mentor**. 2011. Pollination Biology (BOT 458). Department of Biological Sciences, Humboldt State University, Arcata, CA.
+
+**Lead Instructor**. 1997-2007. Landbird Monitoring Training Courses. PRBO Conservation Science. 
+
+**Teaching Assistant**. 1994. Natural History Field Quarter (ENVS 107). Department of Environmental Studies, University of California, Santa Cruz.
+
+**Teaching Assistant**. 1992. Environmental Ethics (ENVS 179). Department of Environmental Studies, University of California, Santa Cruz.
+
+**Teaching Assistant**. 1992. Introduction to Contemporary Environmental Issues (ENVS 31). University of California Extension, Santa Cruz.
+
+**Teaching Assistant**. 1992. Practicum: Environmental Field Study (ENVS 14). University of California Extension, Santa Cruz.
+
+**Teaching Assistant**. 1992. Introduction to Cultural Geography (ENVS 21). University of California Extension, Santa Cruz.
+
+
+## __Outreach__
+
+### __Community Presentation, Webinars, & Workshops__
 
 Heath, S. K. 2019. [Supporting beneficial birds and managing pest birds](https://eorganic.org/node/33928). eOrganic Webinar series. 
 
@@ -401,7 +391,7 @@ Heath, S. K. 2002. 2nd Annual Mono Basin Bird Chautauqua. Lee Vining, CA.
 Heath, S. K. 2001. 1st Annual Mono Basin Bird Chautauqua. Lee Vining, CA.
 
 
-### Blog Posts & Popular Articles
+### __Blog Posts & Popular Articles__
 
 Heath, S. K. and R. F. Long. 2020. [Managing walnut orchards for insect-eating birds](www.sacvalleyorchards.com/walnuts/insects-mites-walnuts/insect-eating-birds/). Sacramento Valley Orchard Source.
 
@@ -426,7 +416,7 @@ Heath, S. K. 2000. [Eastern Sierra Riparian Songbird Conservation Project: using
 Heath, S. K. 2000. [Great Basin Riparian: songbird enhancement east of the Sierra](https://www.sachaheath.com/uploads/1/6/9/8/16984014/heath_2000_observer121.pdf). Observer: Quarterly Journal of PRBO Conservation Science. Number 121. Summer.
 
 
-### Research Media Coverage
+### __Research Media Coverage__
 
 Scott, J. (2020, June 26). [Interview with Sacha Heath](https://anchor.fm/myaglife/episodes/Monitoring-Beneficial-Birds-In-Pests--My-AG-Life-Ep-15-efvlqb/a-a2ijhk1). My Ag Life Podcast. 
 
