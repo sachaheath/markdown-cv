@@ -31,37 +31,37 @@ I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---wi
 
 ## __Employment__
 
-`2019-present`*Postdoctoral Fellow*. Living Earth Collaborative, Washington University. St. Louis, MO.
+`2019-present`**Postdoctoral Fellow**. Living Earth Collaborative, Washington University. St. Louis, MO.
 
-`2018-2019`*Independent Sub-contractor*. Wild Farm Alliance contract with Natural Resources Conservation Service. 
+`2018-2019`**Independent Sub-contractor**. Wild Farm Alliance contract with Natural Resources Conservation Service. 
 
-`2017`*Teaching Assistant*. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
+`2017`**Teaching Assistant**. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
 
-`2016`*Independent Sub-contractor*. Audubon California contract with Almond Board of California.
+`2016`**Independent Sub-contractor**. Audubon California contract with Almond Board of California.
 
-`2016-2017`*Graduate Student Researcher*. Lab of Dr. Marcel Holyoak, Department of Environmental Science and Policy, University of California, Davis.
+`2016-2017`**Graduate Student Researcher**. Lab of Dr. Marcel Holyoak, Department of Environmental Science and Policy, University of California, Davis.
 
-`2016`*Statistical Consultant* Farm Advisor for Field Crops and Pest Management. University of California Cooperative Extension.
+`2016`**Statistical Consultant** Farm Advisor for Field Crops and Pest Management. University of California Cooperative Extension.
 
-`2014`*Teaching Assistant*. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
+`2014`**Teaching Assistant**. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
 
-`2014`*Teaching Assistant*. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
+`2014`**Teaching Assistant**. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
 
-`2013`*Teaching Assistant*. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
+`2013`**Teaching Assistant**. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
 
-`2013`*Lab Technician*. University of California Cooperative Extension, Division of Agriculture and Natural Resources.
+`2013`**Lab Technician**. University of California Cooperative Extension, Division of Agriculture and Natural Resources.
 
-`2000-2010`	*Program Director* (2000-2008) and part time staff ecologist (2008-2010). Eastern Sierra Nevada Program, Terrestrial Ecology Division, Point Blue Conservation Science. 
+`2000-2010`	**Program Director** until 2008 and part-time staff ecologist until 2010. Eastern Sierra Nevada Program, Terrestrial Ecology Division, Point Blue Conservation Science. 
 
-`1998-2000`	*Lead Project Biologist*. Eastern Sierra Nevada projects, Terrestrial Ecology Division, Point Blue Conservation Science.
+`1998-2000`	**Lead Project Biologist**. Eastern Sierra Nevada projects, Terrestrial Ecology Division, Point Blue Conservation Science.
 
-`1997-2000`	*Research Assistant*. Adélie Penguin Project, Antarctica. H. T. Harvey and Associates.
+`1997-2000`	**Research Assistant**. Adélie Penguin Project, Antarctica. H. T. Harvey and Associates.
 
-`1997-1998`	*Field Research Supervisor and Field Station Manager*. Palomarin landbird demography study, Point Blue Conservation Science.
+`1997-1998`	**Field Research Supervisor** and **Field Station Manager**. Palomarin landbird demography study, Point Blue Conservation Science.
 
-`1995, 1996`	*Research Assistant*. Steller’s Eider survival study, Alaska. National Biological Service.
+`1995, 1996`	**Research Assistant**. Steller’s Eider survival study, Alaska. National Biological Service.
 
-`1995`	**Research Assistant. California Condor Recovery Program. U.S. Fish & Wildlife Service.
+`1995`	**Research Assistant**. California Condor Recovery Program. U.S. Fish & Wildlife Service.
 
 ## __Fellowships__
 
@@ -134,7 +134,7 @@ Tonra, C. M., M. D. Johnson, __S. K. Heath__, and M. E. Hauber. 2009. Does nesti
 
 Tonra, C. M., M. E. Hauber, __S. K. Heath__, and M. D. Johnson. 2008. Ecological correlates and sex differences in early development of a generalist brood parasite. The Auk 125(1):205-213. [DOI: 10.1525/auk.2008.125.1.205](https://academic.oup.com/auk/article/125/1/205/5148228)
 
-Latif, Q. S., J. L. Grenier, __S. K. Heath__, G. Ballard, and M. E. Hauber. 2006. First evidence of conspecific brood parasitism and egg ejection in Song Sparrows, with comments on methods sufficient to document these behaviors. Condor 108(2):452-458. [DOI: 10.1093/condor/108.2.452] (https://academic.oup.com/condor/article/108/2/452/5563552)
+Latif, Q. S., J. L. Grenier, __S. K. Heath__, G. Ballard, and M. E. Hauber. 2006. First evidence of conspecific brood parasitism and egg ejection in Song Sparrows, with comments on methods sufficient to document these behaviors. Condor 108(2):452-458. [DOI: 10.1093/condor/108.2.452](https://academic.oup.com/condor/article/108/2/452/5563552)
 
 Ainley, D. G., C. A. Ribic, G. Ballard, __S. Heath__, I. Gaffney, B. J. Karl, K. R. Barton, P. R. Wilson, and S. Webb. 2004. Geographic structure of Adélie penguin populations: size, overlap and use of adjacent colony-specific foraging areas. Ecological Monographs: 74:159-178. [DOI: 10.1890/02-4073](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/02-4073)
 
@@ -160,17 +160,17 @@ __Heath, S. K.__ and G. Ballard. 2003. [Patterns of breeding songbird diversity 
 
 Baumgartner, J. A., S. Kross, S., __S. Heath__. 2019. [Supporting beneficial birds and managing pest birds](https://www.wildfarmalliance.org/bird_resource). Wild Farm Alliance.
 
-Supporting author on the following:
+*Supporting author on the following*:
 
-CalPIF (California Partners in Flight). 2005. [Version 1.0](http://www.prbo.org/calpif/htmldocs/sage.htm). The sagebrush bird conservation plan: a strategy for protecting and managing sagebrush habitats and associated birds in California. PRBO Conservation Science, Stinson Beach, CA.
+California Partners in Flight. 2005. [Version 1.0](http://www.prbo.org/calpif/htmldocs/sage.htm). The sagebrush bird conservation plan: a strategy for protecting and managing sagebrush habitats and associated birds in California. PRBO Conservation Science, Stinson Beach, CA.
 
-RHJV (Riparian Habitat Joint Venture). 2004. [Version 2.0](http://www.prbo.org/calpif/htmldocs/riparian.html). The riparian bird conservation plan: a strategy for reversing the decline of riparian associated birds in California. Version 2.0. California Partners in Flight. 
+Riparian Habitat Joint Venture. 2004. [Version 2.0](http://www.prbo.org/calpif/htmldocs/riparian.html). The riparian bird conservation plan: a strategy for reversing the decline of riparian associated birds in California. Version 2.0. California Partners in Flight. 
 
-CalPIF (California Partners in Flight). 2002. [Version 2.0](http://www.prbo.org/calpif/htmldocs/oaks.html). The oak woodland bird conservation plan: a strategy for protecting and managing oak woodland habitats and associated birds in California (S. Zack, lead author). Point Reyes Bird Observatory, Stinson Beach, CA. 
+California Partners in Flight. 2002. [Version 2.0](http://www.prbo.org/calpif/htmldocs/oaks.html). The oak woodland bird conservation plan: a strategy for protecting and managing oak woodland habitats and associated birds in California (S. Zack, lead author). Point Reyes Bird Observatory, Stinson Beach, CA. 
 
-CalPIF (California Partners in Flight). 2002. [Version 1.1](http://www.prbo.org/calpif/htmldocs/conifer.html). The coniferous forest bird conservation plan: a strategy for protecting and managing coniferous forest habitats and associated birds in California (J. Robinson and J. Alexander, lead authors). PRBO Conservation Science, Petaluma, CA. 
+California Partners in Flight. 2002. [Version 1.1](http://www.prbo.org/calpif/htmldocs/conifer.html). The coniferous forest bird conservation plan: a strategy for protecting and managing coniferous forest habitats and associated birds in California (J. Robinson and J. Alexander, lead authors). PRBO Conservation Science, Petaluma, CA. 
 
-RHJV (Riparian Habitat Joint Venture). 2001. Version 1.0. The riparian bird conservation plan: a strategy for reversing the decline of riparian associated birds in California. Version 1.0. California Partners in Flight. 
+Riparian Habitat Joint Venture. 2001. Version 1.0. The riparian bird conservation plan: a strategy for reversing the decline of riparian associated birds in California. Version 1.0. California Partners in Flight. 
 
 ## __Selected Grants and Contracts__
 
@@ -294,29 +294,29 @@ Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation;
 
 ## __Additional Leadership & Service__
 
-*Grant proposal review*. Mewaldt-King Student Research Award  
+`2014-2016`*Grant proposal review*. Mewaldt-King Student Research Award  
 
-*Grant proposal review*. Jeff Maurer Chautauqua Research Grant
+`2002-2008`*Grant proposal review*. Jeff Maurer Chautauqua Research Grant
 
-*Board Member*. Mono Basin Science Council. 2003–present.
+`2003–present` *Board Member*. Mono Basin Science Council. 
 
 *Co-Founder, Founding Board Member*. [Oikonos Ecosystem Knowledge](https://oikonos.org/), a non-profit 501(c)(3) research, art, and conservation organization. 
 
-*Co-Founder, Chair, Vice-chair*. [Diversity Committee](http://egsa.ucdavis.edu/diversity-committee.html), UC Davis Graduate Group in Ecology. 2013-2017.
+`2013-2017` *Co-Founder, Chair, Vice-chair*. [Diversity Committee](http://egsa.ucdavis.edu/diversity-committee.html), UC Davis Graduate Group in Ecology. 
 
-*Co-Chair*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive), UC Davis Graduate Group in Ecology. 2012. 
+`2012` *Co-Chair*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive), UC Davis Graduate Group in Ecology.  
 
-*Assistant*. White Mountains Odyssey new student orientation, UC Davis. 2012.
+`2012` *Assistant*. White Mountains Odyssey new student orientation, UC Davis. 
 
-*Committee Member*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive). 2011. 
+`2011` *Committee Member*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive). 
 
-*Chair*. Grant Selection Committee, Mono Basin Chautauqua Research Grant. 2002-2008. 
+`2002-2008` *Chair*. Grant Selection Committee, Mono Basin Chautauqua Research Grant. 
 
-*Member*. Sagebrush Bird Conservation Network. 2004–2007.
+`2004-2007`*Member*. Sagebrush Bird Conservation Network. 
 
-*Member*. Riparian Habitat Joint Venture. 1997-2007.
+`1997-2007` *Member*. Riparian Habitat Joint Venture. 
 
-*Co-Chair*. Mono Basin Bird Chautauqua organizing committee. 2002–2007. 
+`2002–2007` *Co-Chair*. Mono Basin Bird Chautauqua organizing committee. 
 
 *Coordinator*. Golondrinas de las Americas, Lee Vining Study Site. 2000–2006.
 
