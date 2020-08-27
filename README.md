@@ -1,6 +1,6 @@
 # [Sacha Heath CV](https://sachaheath.github.io/markdown-cv/)
 
-# Template from:
+## Template from:
 
 ## markdown-cv
 
