@@ -31,37 +31,37 @@ I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---wi
 
 ## __Employment__
 
-`2019-present`Postdoctoral Fellow. Living Earth Collaborative, Washington University. St. Louis, MO.
+`2019-present`*Postdoctoral Fellow*. Living Earth Collaborative, Washington University. St. Louis, MO.
 
-`2018-2019`Independent Sub-contractor. Wild Farm Alliance contract with Natural Resources Conservation Service. 
+`2018-2019`*Independent Sub-contractor*. Wild Farm Alliance contract with Natural Resources Conservation Service. 
 
-`2017`Teaching Assistant. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
+`2017`*Teaching Assistant*. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
 
-`2016`Independent Sub-contractor. Audubon California contract with Almond Board of California.
+`2016`*Independent Sub-contractor*. Audubon California contract with Almond Board of California.
 
-`2016-2017`Graduate Student Researcher. Lab of Dr. Marcel Holyoak, Department of Environmental Science and Policy, University of California, Davis.
+`2016-2017`*Graduate Student Researcher*. Lab of Dr. Marcel Holyoak, Department of Environmental Science and Policy, University of California, Davis.
 
-`2016`Statistical Consultant to Farm Advisor for Field Crops and Pest Management. University of California Cooperative Extension.
+`2016`*Statistical Consultant* Farm Advisor for Field Crops and Pest Management. University of California Cooperative Extension.
 
-`2014`Teaching Assistant. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
+`2014`*Teaching Assistant*. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
 
-`2014`Teaching Assistant. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
+`2014`*Teaching Assistant*. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
 
-`2013`Teaching Assistant. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
+`2013`*Teaching Assistant*. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
 
-`2013`Lab Technician. University of California Cooperative Extension, Division of Agriculture and Natural Resources.
+`2013`*Lab Technician*. University of California Cooperative Extension, Division of Agriculture and Natural Resources.
 
-`2000-2010`	Program Director (2000-2008) and part time staff ecologist (2008-2010). Eastern Sierra Nevada Program, Terrestrial Ecology Division, Point Blue Conservation Science. 
+`2000-2010`	*Program Director* (2000-2008) and part time staff ecologist (2008-2010). Eastern Sierra Nevada Program, Terrestrial Ecology Division, Point Blue Conservation Science. 
 
-`1998-2000`	Lead Project Biologist. Eastern Sierra Nevada projects, Terrestrial Ecology Division, Point Blue Conservation Science.
+`1998-2000`	*Lead Project Biologist*. Eastern Sierra Nevada projects, Terrestrial Ecology Division, Point Blue Conservation Science.
 
-`1997-2000`	Research Assistant. Adélie Penguin Project, Antarctica. H. T. Harvey and Associates.
+`1997-2000`	*Research Assistant*. Adélie Penguin Project, Antarctica. H. T. Harvey and Associates.
 
-`1997-1998`	Field Research Supervisor and Field Station Manager. Palomarin landbird demography study, Point Blue Conservation Science.
+`1997-1998`	*Field Research Supervisor and Field Station Manager*. Palomarin landbird demography study, Point Blue Conservation Science.
 
-`1995, 1996`	Research Assistant. Steller’s Eider survival study, Alaska. National Biological Service.
+`1995, 1996`	*Research Assistant*. Steller’s Eider survival study, Alaska. National Biological Service.
 
-`1995`	Research Assistant. California Condor Recovery Program. U.S. Fish & Wildlife Service.
+`1995`	**Research Assistant. California Condor Recovery Program. U.S. Fish & Wildlife Service.
 
 ## __Fellowships__
 
@@ -218,33 +218,33 @@ RHJV (Riparian Habitat Joint Venture). 2001. Version 1.0. The riparian bird cons
 
 __Heath, S. K.__. 2020. Landscape cover and connectivity mediate avian body condition and overwinter survival in an intensive agroecosystem. *Lightning Symposium: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers*. 7th North American Ornithological Conference. Virtual conference.
 
-__Heath, S. K.__ 2019. Avian conservation and pest reduction services boosted by multiscale habitat in farming landscapes. Biology Department Seminar Series, Missouri State University. Springfield, MO.
+__Heath, S. K.__ 2019. Avian conservation and pest reduction services boosted by multiscale habitat in farming landscapes. *Biology Department Seminar Series*. Missouri State University. Springfield, MO.
 
-__Heath, S. K.__ Avian ecology and pest reduction services in an intensive agricultural landscape: inferences for conservation and farming. Seminar Series of the Living Earth Collaborative and Ecology, Evolution and Population Biology Program, Washington University in Saint Louis. Saint Louis, MO.
+__Heath, S. K.__ Avian ecology and pest reduction services in an intensive agricultural landscape: inferences for conservation and farming. *Seminar Series of the Living Earth Collaborative and Ecology, Evolution and Population Biology Program*. Washington University in Saint Louis. Saint Louis, MO.
 
-__Heath, S. K.__ 2019. A bustle in the hedgerow: exploring the dual effectiveness of farm scale biodiversity enhancement for avian conservation and pest control services in an intensive agricultural region. Inspire Session: Integrating ecosystem health and livelihoods: relationships between ecosystem management, ecology, and economic outcomes. Ecological Society of America. Louisville, KY.
+__Heath, S. K.__ 2019. A bustle in the hedgerow: exploring the dual effectiveness of farm scale biodiversity enhancement for avian conservation and pest control services in an intensive agricultural region. *Inspire Session: Integrating ecosystem health and livelihoods: relationships between ecosystem management, ecology, and economic outcomes*. Ecological Society of America. Louisville, KY.
 
-__Heath, S. K.__ 2019. Avian ecology and pest reduction services in an intensive agricultural landscape: inferences for conservation and farming. National Great Rivers Research & Education Center Seminar Series. East Alton, IL. 
+__Heath, S. K.__ 2019. Avian ecology and pest reduction services in an intensive agricultural landscape: inferences for conservation and farming. *National Great Rivers Research & Education Center Seminar Series*. East Alton, IL. 
 
 Kross, S. M. and __S. K. Heath.__ 2018. Farm friends and foes: managing for pest control and damage from birds. 39th EcoFarm Conference. Asilomar, CA.
 
-__Heath, S. K.__ 2017. Avian ecology and pest reduction services in agroecosystems of the Sacramento Valley: inferences for conservation and farming. Sacramento State Departments of Geology, Biological Sciences, and Environmental Sciences and U.S. Geological Survey Colloquium Series. Sacramento, CA
+__Heath, S. K.__ 2017. Avian ecology and pest reduction services in agroecosystems of the Sacramento Valley: inferences for conservation and farming. *Sacramento State Departments of Geology, Biological Sciences, and Environmental Sciences and U.S. Geological Survey Colloquium Series*. Sacramento, CA
 
-__Heath, S. K.__, R. F. Long, and M. Holyoak. 2015. Avian pest control in walnut orchards: does local scale biodiversity enhancement facilitate the provision of pest control services? Section Symposium: Integrating Ecological and Social Sciences to Support Synergies and Applied Solutions in Agroecosystems. Entomological Society of America. Minneapolis, MN
+__Heath, S. K.__, R. F. Long, and M. Holyoak. 2015. Avian pest control in walnut orchards: does local scale biodiversity enhancement facilitate the provision of pest control services? *Section Symposium: Integrating Ecological and Social Sciences to Support Synergies and Applied Solutions in Agroecosystems*. Entomological Society of America. Minneapolis, MN
 
 __Heath, S. K.__ 2015. Codling moth removal services by birds in walnut orchards. California Walnut Board, Production Research Advisory Council, Entomology Working Group. Stockton, CA.
 
-__Heath, S. K.__, C. McCreedy, Q. S. Latif, and C. Tonra. 2014. Responses of riparian birds to (mostly) of passive restoration Mono Lake tributaries. Symposium: Successes and Challenges in Riparian Restoration - Birds as the Yardstick. Joint meeting of American Ornith. Union/Cooper Ornith. Soc./Soc. Canadian Ornith. Estes Park, CO.
+__Heath, S. K.__, C. McCreedy, Q. S. Latif, and C. Tonra. 2014. Responses of riparian birds to (mostly) of passive restoration Mono Lake tributaries. *Symposium: Successes and Challenges in Riparian Restoration - Birds as the Yardstick*. Joint meeting of American Ornith. Union/Cooper Ornith. Soc./Soc. Canadian Ornith. Estes Park, CO.
 
-__Heath, S. K.__, L. A. Culp, and C. McCreedy. 2006. Restoration of the riparian breeding bird community at Mono Lake, California. Technical Session: Mono Basin Restoration Ten Years Later. 13th Annual California Society for Ecological Restoration Conference. Santa Barbara, CA.
+__Heath, S. K.__, L. A. Culp, and C. McCreedy. 2006. Restoration of the riparian breeding bird community at Mono Lake, California. *Technical Session: Mono Basin Restoration Ten Years Later*. 13th Annual California Society for Ecological Restoration Conference. Santa Barbara, CA.
 
 __Heath, S. K.__ 2006. Long term avian monitoring at Devils Postpile National Monument: opportunities for measurement of ecological change at multiple scales. 5th Annual Yosemite Hydro-Climate Workshop. Yosemite Valley, CA.
 
 __Heath, S. K.__ 2006. It's not just the water! Riparian bird habitat considerations in the context of watershed quality improvements. Rangeland Water Quality Conference. Sacramento, CA. (given by J. Furnish)
 
-__Heath, S. K.__ and G. Ballard. 2006. Breeding bird species richness and occurrence in riparian aspen habitat of the eastern Sierra Nevada: are all aspen groves the same? The Wildlife Society Western Section, Aspen Symposium. Rohnert Park, CA. (poster)
+__Heath, S. K.__ and G. Ballard. 2006. Breeding bird species richness and occurrence in riparian aspen habitat of the eastern Sierra Nevada: are all aspen groves the same? *Aspen Symposium*. The Wildlife Society Western Section. Rohnert Park, CA. (poster)
 
-## __Contributed Presentation, Posters, & Abstracts__
+## __Contributed Talks & Posters__
 
 __Heath, S. K.__ 2019. Seminatural landscape cover and crop characteristics mediate pest reduction by birds in an intensive agricultural region. Ecological Society of America. Louisville, KY.
 
@@ -276,116 +276,116 @@ __Heath, S. K.__ and G. Ballard. 2001. Riparian songbird and habitat relationshi
 
 Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ 1999. Current breeding distribution of passerines in riparian habitat in California’s Central Valley and Eastern Sierra: Range reduction and predictive models of habitat features. 117th Stated Meeting of the American Ornithologists’ Union. Ithaca, NY. (co-presenter of poster with G. Ballard).
 
-## __Scientific Peer Review__ 
-
-Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications 
-
 ## __Society Membership__
 
 Ecological Society of America, American Society of Ornithology, Society for Conservation Biology, The Wildlife Society
 
-## __Organized Research Symposia__
+## __Peer Review__ 
 
-Heath, S. K. and Matthew. D. Johnson; co-organizers. 2020. Lightning Symposium and Presenter Panel: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers. 7th North American Ornithological Conference. Virtual conference.
+Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications 
 
-Heath, S. K.  Kim Kreitinger; co-organizers. 2006. Conservation and management of upland birds and habitats in eastern California: a synthesis of issues and solutions for sagebrush, desert, and grassland bird populations. UC White Mountain Resaerch Station and Intermountain West Joint Venture, Bishop, CA.
+## __Research Symposia Organization__
 
-Heath, S. K. and Sandra Scoggin; co-organizers. 2002. California Partners in Flight bi-annual meeting. Lee Vining, CA. 2002. 
+`2020`*Co-organizer* with Matthew. D. Johnson. Lightning Symposium and Presenter Panel: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers. 7th North American Ornithological Conference. Virtual conference.
+
+`2006` *Co-organizer* with  Kim Kreitinger. Conservation and management of upland birds and habitats in eastern California: a synthesis of issues and solutions for sagebrush, desert, and grassland bird populations. UC White Mountain Resaerch Station and Intermountain West Joint Venture, Bishop, CA.
+
+`2002`*Co-organizer* with Sandra Scoggin. California Partners in Flight bi-annual meeting. Lee Vining, CA. 2002. 
 
 ## __Additional Leadership & Service__
 
-Grant proposal reviewer. Mewaldt-King Student Research Award  
+*Grant proposal review*. Mewaldt-King Student Research Award  
 
-Grant proposal reviewer. Jeff Maurer Chautauqua Research Grant
+*Grant proposal review*. Jeff Maurer Chautauqua Research Grant
 
-Board Member. Mono Basin Science Council. 2003–present.
+*Board Member*. Mono Basin Science Council. 2003–present.
 
-Co-Founder, Founding Board Member. [Oikonos Ecosystem Knowledge](https://oikonos.org/), a non-profit 501(c)(3) research, art, and conservation organization. 
+*Co-Founder, Founding Board Member*. [Oikonos Ecosystem Knowledge](https://oikonos.org/), a non-profit 501(c)(3) research, art, and conservation organization. 
 
-Co-Founder, Chair, Vice-chair. [Diversity Committee](http://egsa.ucdavis.edu/diversity-committee.html), UC Davis Graduate Group in Ecology. 2013-2017.
+*Co-Founder, Chair, Vice-chair*. [Diversity Committee](http://egsa.ucdavis.edu/diversity-committee.html), UC Davis Graduate Group in Ecology. 2013-2017.
 
-Co-Chair. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive), UC Davis Graduate Group in Ecology. 2012. 
+*Co-Chair*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive), UC Davis Graduate Group in Ecology. 2012. 
 
-Assistant. White Mountains Odyssey new student orientation, UC Davis. 2012.
+*Assistant*. White Mountains Odyssey new student orientation, UC Davis. 2012.
 
-Committee Member. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive). 2011. 
+*Committee Member*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive). 2011. 
 
-Chair. Grant Selection Committee, Mono Basin Chautauqua Research Grant. 2002-2008. 
+*Chair*. Grant Selection Committee, Mono Basin Chautauqua Research Grant. 2002-2008. 
 
-Member. Sagebrush Bird Conservation Network. 2004–2007.
+*Member*. Sagebrush Bird Conservation Network. 2004–2007.
 
-Member. Riparian Habitat Joint Venture. 1997-2007.
+*Member*. Riparian Habitat Joint Venture. 1997-2007.
 
-Co-Chair. Mono Basin Bird Chautauqua organizing committee. 2002–2007. 
+*Co-Chair*. Mono Basin Bird Chautauqua organizing committee. 2002–2007. 
 
-Coordinator. Golondrinas de las Americas, Lee Vining Study Site. 2000–2006.
+*Coordinator*. Golondrinas de las Americas, Lee Vining Study Site. 2000–2006.
 
-Co-Editor. Scientific Research Column, Mono Lake Committee Newsletter. 2004-2005. 
+*Co-Editor*. Scientific Research Column, Mono Lake Committee Newsletter. 2004-2005. 
 
 
 ## __Teaching__
 
-Presenter. 2020. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
+*Presenter*. 2020. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
 
-Teaching Assistant. 2017. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+*Teaching Assistant*. 2017. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
 
-Guest Lecturer. 2017. Undergraduate course: Society and Conservation. Environmental Studies Program, California State University Sacramento.
+*Guest Lecturer*. 2017. Undergraduate course: Society and Conservation. Environmental Studies Program, California State University Sacramento.
 
-Graduate Seminar Co-Instructor. 2015. Ecological Intensification in California Agriculture: from Science to Practice (ENT 290). Department of Entomology, University of California, Davis. 
+*Graduate Seminar Co-Instructor*. 2015. Ecological Intensification in California Agriculture: from Science to Practice (ENT 290). Department of Entomology, University of California, Davis. 
 
-Teaching Assistant. 2014. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+*Teaching Assistant*. 2014. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
 
-Teaching Assistant. 2014. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
+*Teaching Assistant*. 2014. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
 
-Teaching Assistant. 2013. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
+*Teaching Assistant*. 2013. Principles and Applications of Ecology (ECL 200A). Department of Environmental Sciences & Policy, University of California, Davis.
 
-Undergraduate Mentor. 2011. Pollination Biology (BOT 458). Department of Biological Sciences, Humboldt State University, Arcata, CA.
+*Undergraduate Mentor*. 2011. Pollination Biology (BOT 458). Department of Biological Sciences, Humboldt State University, Arcata, CA.
 
-Lead Instructor. 1997-2007. Landbird Monitoring Training Courses. PRBO Conservation Science. 
+*Lead Instructor*. 1997-2007. Landbird Monitoring Training Courses. PRBO Conservation Science. 
 
-Teaching Assistant. 1994. Natural History Field Quarter (ENVS 107). Department of Environmental Studies, University of California, Santa Cruz.
+*Teaching Assistant*. 1994. Natural History Field Quarter (ENVS 107). Department of Environmental Studies, University of California, Santa Cruz.
 
-Teaching Assistant. 1992. Environmental Ethics (ENVS 179). Department of Environmental Studies, University of California, Santa Cruz.
+*Teaching Assistant*. 1992. Environmental Ethics (ENVS 179). Department of Environmental Studies, University of California, Santa Cruz.
 
-Teaching Assistant. 1992. Introduction to Contemporary Environmental Issues (ENVS 31). University of California Extension, Santa Cruz.
+*Teaching Assistant*. 1992. Introduction to Contemporary Environmental Issues (ENVS 31). University of California Extension, Santa Cruz.
 
-Teaching Assistant. 1992. Practicum: Environmental Field Study (ENVS 14). University of California Extension, Santa Cruz.
+*Teaching Assistant*. 1992. Practicum: Environmental Field Study (ENVS 14). University of California Extension, Santa Cruz.
 
-Teaching Assistant. 1992. Introduction to Cultural Geography (ENVS 21). University of California Extension, Santa Cruz.
+*Teaching Assistant*. 1992. Introduction to Cultural Geography (ENVS 21). University of California Extension, Santa Cruz.
 
 ## __Outreach__
 
 ### __Talks, Webinars, & Workshops__
 
-Heath, S. K. 2019. [Supporting beneficial birds and managing pest birds](https://eorganic.org/node/33928). eOrganic Webinar series. 
+`2019` [Supporting beneficial birds and managing pest birds](https://eorganic.org/node/33928). eOrganic Webinar series. 
 
-Heath, S. K. and S. M. Kross. 2018. 39th EcoFarm Conference. Asilomar, CA 
+`2018` 39th EcoFarm Conference. Asilomar, CA 
 
-Heath, S. K. 2016. Sacramento Science Distilled. Sacramento, CA.
+`2016` Sacramento Science Distilled. Sacramento, CA.
 
-Heath, S. K. 2015. California Walnut Board, Production Research Advisory Council. Stockton, CA.
+`2015` California Walnut Board, Production Research Advisory Council. Stockton, CA.
 
-Heath, S. K. 2015. Hedgerow Workshop. University of California Cooperative Extension. Esparto, CA. 
+`2015` Hedgerow Workshop. University of California Cooperative Extension. Esparto, CA. 
 
-Heath, S. K. 2015. Yolo County Audubon Society. Davis, CA
+`2015` Yolo County Audubon Society. Davis, CA
 
-Heath, S. K. 2015. Cache Creek Conservancy Board Meeting. Woodland, CA.
+`2015` Cache Creek Conservancy Board Meeting. Woodland, CA.
 
-Heath, S. K. 2014a. Hedgerow Workshop. University of California Cooperative Extension. Winters, CA.
+`2014` Hedgerow Workshop. University of California Cooperative Extension. Winters, CA.
 
-Heath, S. K. 2014b. Hedgerow Workshop. University of California Cooperative Extension. Winters, CA.
+`2014` Hedgerow Workshop. University of California Cooperative Extension. Winters, CA.
 
-Heath, S. K. 2010. 9th Annual Mono Basin Bird Chautauqua. Lee Vining, CA.
+`2010` 9th Annual Mono Basin Bird Chautauqua. Lee Vining, CA.
 
-Heath, S. K. 2007. Parsons Memorial Lodge Summer Series. Tuolumne Meadows, Yosemite National Park, CA.
+`2007` Parsons Memorial Lodge Summer Series. Tuolumne Meadows, Yosemite National Park, CA.
 
-Heath, S. K. 2007. 6th Annual Mono Basin Bird Chautauqua. Lee Vining, CA. 
+`2007` 6th Annual Mono Basin Bird Chautauqua. Lee Vining, CA. 
 
-Heath, S. K. 2003. Mono Basin Field Station Seminar. Lee Vining, CA.
+`2003` Mono Basin Field Station Seminar. Lee Vining, CA.
 
-Heath, S. K. 2002. 2nd Annual Mono Basin Bird Chautauqua. Lee Vining, CA.
+`2002` 2nd Annual Mono Basin Bird Chautauqua. Lee Vining, CA.
 
-Heath, S. K. 2001. 1st Annual Mono Basin Bird Chautauqua. Lee Vining, CA.
+`2001` 1st Annual Mono Basin Bird Chautauqua. Lee Vining, CA.
 
 ### __Blog Posts & Popular Articles__
 
@@ -453,10 +453,4 @@ Kay, J. (2006, July 29). [It’s Rising and Healthy: Three decades ago, a bunch 
 
 Tekulsky, M. (2004, February 3). [Birding Column: Banding Birds at Devils Postpile](https://www.sachaheath.com/uploads/1/6/9/8/16984014/matthew_tekulsky_2004_nat_geo_column_banding_birds_at_devils_postpile.pdf). National Geographic Daily News.
 
-
-
-@media print { 
- /* All your print styles go here */
- #header, #footer, #nav { display: none !important; } 
-}
 
