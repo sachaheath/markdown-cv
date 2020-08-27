@@ -2,6 +2,8 @@
 layout: cv
 title: Sacha Heath
 ---
+`Updated: 27 August 2020`
+
 # Sacha K. Heath
 
 <div id="webaddress">
@@ -10,9 +12,6 @@ title: Sacha Heath
   | <a href="https://twitter.com/sachaheath">@sachaheath</a> 
     
 </div>
-
- `Updated: 27 August 2020`
-
 
 ## __Research interests__
 
@@ -279,7 +278,8 @@ Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ 1999. Current b
 
 ## __Scientific Peer Review__ 
 
-Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications [publons](https://publons.com/researcher/1290983/sacha-heath/peer-review/) 
+`[publons](https://publons.com/researcher/1290983/sacha-heath/peer-review/)`
+Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications 
 
 ## __Society Membership__
 
@@ -295,7 +295,7 @@ Heath, S. K. and Sandra Scoggin; co-organizers. 2002. California Partners in Fli
 
 ## __Additional Leadership & Service__
 
-_Grant proposal reviewer_. Mewaldt-King Student Research Award  
+*Grant proposal reviewer*. Mewaldt-King Student Research Award  
 
 _Grant proposal reviewer_. Jeff Maurer Chautauqua Research Grant
 
