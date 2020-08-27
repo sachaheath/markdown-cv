@@ -216,65 +216,65 @@ Riparian Habitat Joint Venture. 2001. Version 1.0. The riparian bird conservatio
 
 ## __Invited Symposia, Seminars, & Workshops__
 
-__Heath, S. K.__. 2020. Landscape cover and connectivity mediate avian body condition and overwinter survival in an intensive agroecosystem. *Lightning Symposium: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers*. 7th North American Ornithological Conference. Virtual conference.
+`2020` __Heath, S. K.__. Landscape cover and connectivity mediate avian body condition and overwinter survival in an intensive agroecosystem. *Lightning Symposium: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers*. 7th North American Ornithological Conference. Virtual conference.
 
-__Heath, S. K.__ 2019. Avian conservation and pest reduction services boosted by multiscale habitat in farming landscapes. *Biology Department Seminar Series*. Missouri State University. Springfield, MO.
+`2019` __Heath, S. K.__ Avian conservation and pest reduction services boosted by multiscale habitat in farming landscapes. *Biology Department Seminar Series*. Missouri State University. Springfield, MO.
 
-__Heath, S. K.__ Avian ecology and pest reduction services in an intensive agricultural landscape: inferences for conservation and farming. *Seminar Series of the Living Earth Collaborative and Ecology, Evolution and Population Biology Program*. Washington University in Saint Louis. Saint Louis, MO.
+`2019` __Heath, S. K.__ Avian ecology and pest reduction services in an intensive agricultural landscape: inferences for conservation and farming. *Seminar Series of the Living Earth Collaborative and Ecology, Evolution and Population Biology Program*. Washington University in Saint Louis. Saint Louis, MO.
 
-__Heath, S. K.__ 2019. A bustle in the hedgerow: exploring the dual effectiveness of farm scale biodiversity enhancement for avian conservation and pest control services in an intensive agricultural region. *Inspire Session: Integrating ecosystem health and livelihoods: relationships between ecosystem management, ecology, and economic outcomes*. Ecological Society of America. Louisville, KY.
+`2019` __Heath, S. K.__ A bustle in the hedgerow: exploring the dual effectiveness of farm scale biodiversity enhancement for avian conservation and pest control services in an intensive agricultural region. *Inspire Session: Integrating ecosystem health and livelihoods: relationships between ecosystem management, ecology, and economic outcomes*. Ecological Society of America. Louisville, KY.
 
-__Heath, S. K.__ 2019. Avian ecology and pest reduction services in an intensive agricultural landscape: inferences for conservation and farming. *National Great Rivers Research & Education Center Seminar Series*. East Alton, IL. 
+`2019` __Heath, S. K.__ Avian ecology and pest reduction services in an intensive agricultural landscape: inferences for conservation and farming. *National Great Rivers Research & Education Center Seminar Series*. East Alton, IL. 
 
-Kross, S. M. and __S. K. Heath.__ 2018. Farm friends and foes: managing for pest control and damage from birds. 39th EcoFarm Conference. Asilomar, CA.
+`2018` Kross, S. M. and __S. K. Heath.__ Farm friends and foes: managing for pest control and damage from birds. 39th EcoFarm Conference. Asilomar, CA.
 
-__Heath, S. K.__ 2017. Avian ecology and pest reduction services in agroecosystems of the Sacramento Valley: inferences for conservation and farming. *Sacramento State Departments of Geology, Biological Sciences, and Environmental Sciences and U.S. Geological Survey Colloquium Series*. Sacramento, CA
+`2017` __Heath, S. K.__ Avian ecology and pest reduction services in agroecosystems of the Sacramento Valley: inferences for conservation and farming. *Sacramento State Departments of Geology, Biological Sciences, and Environmental Sciences and U.S. Geological Survey Colloquium Series*. Sacramento, CA
 
-__Heath, S. K.__, R. F. Long, and M. Holyoak. 2015. Avian pest control in walnut orchards: does local scale biodiversity enhancement facilitate the provision of pest control services? *Section Symposium: Integrating Ecological and Social Sciences to Support Synergies and Applied Solutions in Agroecosystems*. Entomological Society of America. Minneapolis, MN
+`2015` __Heath, S. K.__, R. F. Long, and M. Holyoak. Avian pest control in walnut orchards: does local scale biodiversity enhancement facilitate the provision of pest control services? *Section Symposium: Integrating Ecological and Social Sciences to Support Synergies and Applied Solutions in Agroecosystems*. Entomological Society of America. Minneapolis, MN
 
-__Heath, S. K.__ 2015. Codling moth removal services by birds in walnut orchards. California Walnut Board, Production Research Advisory Council, Entomology Working Group. Stockton, CA.
+`2015` __Heath, S. K.__ Codling moth removal services by birds in walnut orchards. California Walnut Board, Production Research Advisory Council, Entomology Working Group. Stockton, CA.
 
-__Heath, S. K.__, C. McCreedy, Q. S. Latif, and C. Tonra. 2014. Responses of riparian birds to (mostly) of passive restoration Mono Lake tributaries. *Symposium: Successes and Challenges in Riparian Restoration - Birds as the Yardstick*. Joint meeting of American Ornith. Union/Cooper Ornith. Soc./Soc. Canadian Ornith. Estes Park, CO.
+`2014` __Heath, S. K.__, C. McCreedy, Q. S. Latif, and C. Tonra. Responses of riparian birds to (mostly) of passive restoration Mono Lake tributaries. *Symposium: Successes and Challenges in Riparian Restoration - Birds as the Yardstick*. Joint meeting of American Ornith. Union/Cooper Ornith. Soc./Soc. Canadian Ornith. Estes Park, CO.
 
-__Heath, S. K.__, L. A. Culp, and C. McCreedy. 2006. Restoration of the riparian breeding bird community at Mono Lake, California. *Technical Session: Mono Basin Restoration Ten Years Later*. 13th Annual California Society for Ecological Restoration Conference. Santa Barbara, CA.
+`2006` __Heath, S. K.__, L. A. Culp, and C. McCreedy. Restoration of the riparian breeding bird community at Mono Lake, California. *Technical Session: Mono Basin Restoration Ten Years Later*. 13th Annual California Society for Ecological Restoration Conference. Santa Barbara, CA.
 
-__Heath, S. K.__ 2006. Long term avian monitoring at Devils Postpile National Monument: opportunities for measurement of ecological change at multiple scales. 5th Annual Yosemite Hydro-Climate Workshop. Yosemite Valley, CA.
+`2006` __Heath, S. K.__ Long term avian monitoring at Devils Postpile National Monument: opportunities for measurement of ecological change at multiple scales. 5th Annual Yosemite Hydro-Climate Workshop. Yosemite Valley, CA.
 
-__Heath, S. K.__ 2006. It's not just the water! Riparian bird habitat considerations in the context of watershed quality improvements. Rangeland Water Quality Conference. Sacramento, CA. (given by J. Furnish)
+`2006` __Heath, S. K.__ It's not just the water! Riparian bird habitat considerations in the context of watershed quality improvements. Rangeland Water Quality Conference. Sacramento, CA. (given by J. Furnish)
 
-__Heath, S. K.__ and G. Ballard. 2006. Breeding bird species richness and occurrence in riparian aspen habitat of the eastern Sierra Nevada: are all aspen groves the same? *Aspen Symposium*. The Wildlife Society Western Section. Rohnert Park, CA. (poster)
+`2006` __Heath, S. K.__ and G. Ballard. Breeding bird species richness and occurrence in riparian aspen habitat of the eastern Sierra Nevada: are all aspen groves the same? *Aspen Symposium*. The Wildlife Society Western Section. Rohnert Park, CA. (poster)
 
 ## __Contributed Talks & Posters__
 
-__Heath, S. K.__ 2019. Seminatural landscape cover and crop characteristics mediate pest reduction by birds in an intensive agricultural region. Ecological Society of America. Louisville, KY.
+`2019`__Heath, S. K.__ Seminatural landscape cover and crop characteristics mediate pest reduction by birds in an intensive agricultural region. Ecological Society of America. Louisville, KY.
 
-Taylor, R. D., E. M. Wood, __S. K. Heath__, and D. House. 2018. Monitoring the response of riparian birds to restoration of the Lower Owens River, California. 136th Stated Meeting of the American Ornithological Society. Tucson, AZ. (R.D. Taylor delivered poster).
+`2018` Taylor, R. D., E. M. Wood, __S. K. Heath__, and D. House. Monitoring the response of riparian birds to restoration of the Lower Owens River, California. 136th Stated Meeting of the American Ornithological Society. Tucson, AZ. (R.D. Taylor delivered poster).
 
-__Heath, S. K.__ and K. Strum. 2017. Almond Ornithology: A review of bird and nut tree interactions in Mediterranean climates worldwide to inform sustainability. Growing Advantage: The Almond Conference. Sacramento, CA. (K. Strum delivered poster).
+`2017` __Heath, S. K.__ and K. Strum. Almond Ornithology: A review of bird and nut tree interactions in Mediterranean climates worldwide to inform sustainability. Growing Advantage: The Almond Conference. Sacramento, CA. (K. Strum delivered poster).
 
-Kross, S., __S. Heath__, K. Velas, R. Kelsey, and C. Soykan. 2015. Links between on farm habitat, bird diversity, pest control and crop damage in California’s Central Valley. 27th International Congress for Conservation Biology. Montpellier, France. (S. Kross delivered talk)
+`2015` Kross, S., __S. Heath__, K. Velas, R. Kelsey, and C. Soykan. Links between on farm habitat, bird diversity, pest control and crop damage in California’s Central Valley. 27th International Congress for Conservation Biology. Montpellier, France. (S. Kross delivered talk)
 
-__Heath, S. K.__, R. F. Long, and M. Holyoak. 2014. Avian pest control in walnut orchards: does local scale biodiversity enhancement facilitate the provision of pest control services? Ecological Society of America, Annual Meeting. Sacramento, CA. (poster)
+`2014` __Heath, S. K.__, R. F. Long, and M. Holyoak. Avian pest control in walnut orchards: does local scale biodiversity enhancement facilitate the provision of pest control services? Ecological Society of America, Annual Meeting. Sacramento, CA. (poster)
 
-__Heath, S. K.__ and M. D. Johnson. 2012. No top-down effects of insectivorous birds and bats on arthropods and sapling black cottonwoods in the context of restoration. (First Place Poster, Student Poster Award). Wildlife Society Western Section, Annual Conference. Sacramento, CA.
+`2012` __Heath, S. K.__ and M. D. Johnson. No top-down effects of insectivorous birds and bats on arthropods and sapling black cottonwoods in the context of restoration. (First Place Poster, Student Poster Award). Wildlife Society Western Section, Annual Conference. Sacramento, CA.
 
-__Heath, S. K.__ and M. D. Johnson. 2012. No top-down effects of insectivorous birds and bats on arthropods and sapling black cottonwoods in the context of restoration. (Best Poster, Poster Contest). 5th Annual Ecology Graduate Student Symposium. Davis, CA.
+`2012` __Heath, S. K.__ and M. D. Johnson. No top-down effects of insectivorous birds and bats on arthropods and sapling black cottonwoods in the context of restoration. (Best Poster, Poster Contest). 5th Annual Ecology Graduate Student Symposium. Davis, CA.
 
-__Heath, S. K.__ 2006. Songbird use of habitats managed for Greater Sage-Grouse in eastern California. California Partners in Flight. Bishop, CA.
+`2006` __Heath, S. K.__ Songbird use of habitats managed for Greater Sage-Grouse in eastern California. California Partners in Flight. Bishop, CA.
 
-__Heath, S. K.__ and A. Holmes. 2006. Bird responses to woodland removal projects on Steens Mountain, Oregon and Rancheria Gulch, California. California Partners in Flight. August 2006, Bishop, CA.
+`2006` __Heath, S. K.__ and A. Holmes. Bird responses to woodland removal projects on Steens Mountain, Oregon and Rancheria Gulch, California. California Partners in Flight. August 2006, Bishop, CA.
 
-__Heath, S. K.__, G. Ballard, and C. McCreedy. 2002. How viable are yellow warbler populations in eastern California and what habitat features affect their nesting success? 3rd International Partners in Flight Conference, Asilomar, CA. (poster).
+`2002` __Heath, S. K.__, G. Ballard, and C. McCreedy. How viable are yellow warbler populations in eastern California and what habitat features affect their nesting success? 3rd International Partners in Flight Conference, Asilomar, CA. (poster).
 
-__Heath, S. K.__ and G. Ballard. 2002. Eastern Sierra Riparian Songbird Conservation Project: A case study in Partners in Flight Riparian Bird Conservation Plan implementation. 3rd International Partners in Flight Conference. Asilomar, CA.
+`2002` __Heath, S. K.__ and G. Ballard. Eastern Sierra Riparian Songbird Conservation Project: A case study in Partners in Flight Riparian Bird Conservation Plan implementation. 3rd International Partners in Flight Conference. Asilomar, CA.
 
-__Heath, S. K.__ and G. Ballard. 2001. Vide supra. California Partners in Flight meeting. California Partners in Flight. Lee Vining, CA.
+`2001` __Heath, S. K.__ and G. Ballard. Vide supra. California Partners in Flight meeting. California Partners in Flight. Lee Vining, CA.
 
-__Heath, S. K.__., G. Ballard, and G. Geupel. 2001. Vide supra. Annual Meeting of the Western Section of The Wildlife Society. Sacramento, CA.
+`2001` __Heath, S. K.__., G. Ballard, and G. Geupel. Vide supra. Annual Meeting of the Western Section of The Wildlife Society. Sacramento, CA.
 
-__Heath, S. K.__ and G. Ballard. 2001. Riparian songbird and habitat relationships in the eastern Sierra Nevada. Riparian Habitat and Floodplains Conference. Sacramento, CA.
+`2001` __Heath, S. K.__ and G. Ballard. Riparian songbird and habitat relationships in the eastern Sierra Nevada. Riparian Habitat and Floodplains Conference. Sacramento, CA.
 
-Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ 1999. Current breeding distribution of passerines in riparian habitat in California’s Central Valley and Eastern Sierra: Range reduction and predictive models of habitat features. 117th Stated Meeting of the American Ornithologists’ Union. Ithaca, NY. (co-presenter of poster with G. Ballard).
+`1999` Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ Current breeding distribution of passerines in riparian habitat in California’s Central Valley and Eastern Sierra: Range reduction and predictive models of habitat features. 117th Stated Meeting of the American Ornithologists’ Union. Ithaca, NY. (co-presenter of poster with G. Ballard).
 
 ## __Society Membership__
 
