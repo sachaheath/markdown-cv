@@ -389,7 +389,7 @@ Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation;
 
 ### __Blog Posts & Popular Articles__
 
-Heath, S. K. and R. F. Long. 2020. [Managing walnut orchards for insect-eating birds](www.sacvalleyorchards.com/walnuts/insects-mites-walnuts/insect-eating-birds/). Sacramento Valley Orchard Source.
+Heath, S. K. and R. F. Long. 2020. [Managing walnut orchards for insect-eating birds](http://www.sacvalleyorchards.com/walnuts/insects-mites-walnuts/insect-eating-birds/). Sacramento Valley Orchard Source.
 
 Long, R. F. and S. K. Heath. 2020. [Encouraging beneficial birds in walnut orchards](https://www.wcngg.com/2020/06/24/encouraging-beneficial-birds-in-walnut-orchards/). West Coast Nut blog.  
 
