@@ -106,6 +106,8 @@ __Heath, S. K.__. 2019. Data and Code for: Multiscale habitat mediates pest redu
 
 ### __Journal Articles__
 
+Hauber, M. E., __S. K. Heath__, and C. M. Tonra. *in press* Direct estimates of breeding site fidelity and natal philopatry in parasitic Brown-headed Cowbirds (*Molothrus ater*). Ardea.
+
 __Heath, S. K.__, and R. F. Long. 2019. Multiscale habitat mediates pest reduction by birds in an intensive agricultural region. Ecosphere 10(10):1-24. [DOI: 10.1002/ecs2.2884](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2884)
 
 Maas, B., __S. Heath__, I. Grass, C. Cassano, A. Classen, D. Faria, P. Gras, K. Williams-Guillén, M. Johnson, D. S. Karp, V. Linden, A. Martínez-Salinas, J. Schmack, and S. Kross. 2019. Experimental field exclosure of birds and bats in agricultural systems - methodological insights, potential improvements, and cost-benefit trade-offs. Basic and Applied Ecology 35:1-12. [DOI: 10.1016/j.baae.2018.12.002](https://www.sciencedirect.com/science/article/abs/pii/S143917911830183X?via%3Dihub)
