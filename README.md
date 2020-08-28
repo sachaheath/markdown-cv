@@ -1,5 +1,7 @@
 ### [Sacha Heath CV](https://sachaheath.github.io/markdown-cv/)
 
+#### Edit index.rmd on gh-pages branch to update
+
 ***
 
 # markdown-cv
