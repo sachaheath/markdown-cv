@@ -294,27 +294,27 @@ Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation;
 
 ## __Additional Leadership & Service__
 
-`2014-2016`*Grant proposal review*. Mewaldt-King Student Research Award  
+`2014-2016`*Grant proposal review*. Mewaldt-King Student Research Award, Cooper Ornithological Society.  
 
-`2002-2008`*Grant proposal review*. Jeff Maurer Chautauqua Research Grant
+`2002-2008`*Grant proposal review*. Jeff Maurer Chautauqua Research Grant, Mono Lake Committee.
 
 `2003–present` *Board Member*. Mono Basin Science Council. 
 
-*Co-Founder, Founding Board Member*. [Oikonos Ecosystem Knowledge](https://oikonos.org/), a non-profit 501(c)(3) research, art, and conservation organization. 
+`2002` *Co-Founder, Founding Board Member*. [Oikonos Ecosystem Knowledge](https://oikonos.org/), a non-profit 501(c)(3) research, art, and conservation organization. 
 
 `2013-2017` *Co-Founder, Chair, Vice-chair*. [Diversity Committee](http://egsa.ucdavis.edu/diversity-committee.html), UC Davis Graduate Group in Ecology. 
 
-`2012` *Co-Chair*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive), UC Davis Graduate Group in Ecology.  
+`2012` *Co-Chair*. Graduate Student Symposium in Ecology, UC Davis Graduate Group in Ecology.  
 
-`2012` *Assistant*. White Mountains Odyssey new student orientation, UC Davis. 
+`2012` *Assistant*. White Mountains Odyssey new student orientation, UC Davis Graduate Group in Ecology. 
 
-`2011` *Committee Member*. [Graduate Student Symposium in Ecology](http://egsa.ucdavis.edu/symposium-event-page-and-archive). 
+`2011` *Committee Member*. Graduate Student Symposium in Ecology. UC Davis Graduate Group in Ecology. 
 
 `2002-2008` *Chair*. Grant Selection Committee, Mono Basin Chautauqua Research Grant. 
 
-`2004-2007`*Member*. Sagebrush Bird Conservation Network. 
+`2004-2007`*Member*. Sagebrush Bird Conservation Network. California Partners in Flight.
 
-`1997-2007` *Member*. Riparian Habitat Joint Venture. 
+`1997-2007` *Member*. Riparian Habitat Joint Venture. California Partners in Flight.
 
 `2002–2007` *Co-Chair*. Mono Basin Bird Chautauqua organizing committee. 
 
@@ -425,11 +425,11 @@ Warnert, J. E. (2019, November 18). [How to attract bug-eating birds to farms](h
 
 Morning Ag Clips. (2019, November 19). [How to attract bug-eating birds to farms](https://www.morningagclips.com/how-to-attract-bug-eating-birds-to-farms/). 
 
-Warnert, J. E. (2019, November 18). [How to attract bug-eating birds to farms](https://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=38788). Green Blob, University of California Division of Agriculture and Natural Resources.
+Warnert, J. E. (2019, November 18). [How to attract bug-eating birds to farms](https://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=38788). Green Blog, University of California Division of Agriculture and Natural Resources.
 
 Bownman, S. (2019, November 8). [Be bird-brainy: know your beneficial birds](https://www.lancasterfarming.com/farm_life/conservation/be-bird-brainy-know-your-beneficial-birds/article_29c1d102-6ef6-560a-81c7-1bed953374e5.html#comments). Lancaster Farming. 
 
-Forrester, N. (2019, July 12). [St. Louis researchers receive funding for new biodiversity projects]. St. Louis Post-Dispatch. 
+Forrester, N. (2019, July 12). [St. Louis researchers receive funding for new biodiversity projects](https://www.stltoday.com/business/local/st-louis-researchers-receive-funding-for-new-biodiversity-projects/article_977281da-63e7-5b7e-b630-f499e04aee95.html). St. Louis Post-Dispatch. 
 
 Heath, S. K. [Interview with 90.3 KDVS, Local Dirt Radio](https://www.sachaheath.com/news-and-musings/kdvs-local-dirt-radio-birds-hedgerows-conservation-and-agricultural-production-in-the-central-valley). (2017, October 23). Davis, CA. 
 
