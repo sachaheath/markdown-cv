@@ -284,7 +284,7 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 
 ## __Peer Review__
 
-[![Alt text](C:/Users/Sacha/Documents/Research_Website/github_website/publons.jpg)](https://publons.com/researcher/1290983/sacha-heath/peer-review/). Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications 
+[![Alt text](C:/Users/Sacha/Documents/Research_Website/github_website/publons.jpg#thumbnail)](https://publons.com/researcher/1290983/sacha-heath/peer-review/). Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications 
 
 ## __Research Symposia Organization__
 
