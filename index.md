@@ -296,6 +296,12 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 
 ## __Additional Leadership & Service__
 
+`2020`*Co-organizer* The Living Earth Collaborative and Ecology, Evolution, and Population Biology Seminar Series. Department of Biology, Washington Unviersity.
+
+`2020`*Co-organizer* The Living Earth Collaborative Biodivers-a-palooza. Summer Biodiversity Scavenger Hunt: COVID-19 Version.
+
+`2020`*Co-organizer* [The Living Earth Collaborative Presents: Adventures in Biodiversity Research](https://www.youtube.com/playlist?list=PL1qK1_d1g_fuWvNVI4D9zjiuEgX7WTCm0). 
+
 `2014-2016`*Grant proposal review*. Mewaldt-King Student Research Award, Cooper Ornithological Society.  
 
 `2002-2008`*Grant proposal review*. Jeff Maurer Chautauqua Research Grant, Mono Lake Committee.
@@ -414,6 +420,8 @@ Heath, S. K. 2000. [Eastern Sierra Riparian Songbird Conservation Project: using
 Heath, S. K. 2000. [Great Basin Riparian: songbird enhancement east of the Sierra](https://www.sachaheath.com/uploads/1/6/9/8/16984014/heath_2000_observer121.pdf). Observer: Quarterly Journal of PRBO Conservation Science. Number 121. Summer.
 
 ### __Research Media Coverage__
+
+Coatney, Kathy. (2020, September 9). [Birds help reduce codling moth larvae in orchards](https://www.agalert.com/story/?id=14290). AgAlert: The Weekly Newsletter fro California Agriculture.
 
 Scott, J. (2020, June 26). [Interview: Monitoring beneficial birds](https://anchor.fm/myaglife/episodes/Monitoring-Beneficial-Birds-In-Pests--My-AG-Life-Ep-15-efvlqb/a-a2ijhk1). My Ag Life Podcast. 
 
