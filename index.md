@@ -2,7 +2,7 @@
 layout: cv
 title: Sacha Heath
 ---
-`Updated: 27 August 2020`
+`Updated: 14 October 2020`
 
 # Sacha K. Heath
 
@@ -31,23 +31,19 @@ I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---wi
 
 ## __Employment__
 
-`2019-present`**Postdoctoral Fellow**. Living Earth Collaborative, Washington University. St. Louis, MO.
+`2019-present`**Postdoctoral Research Associate**. Living Earth Collaborative, Washington University. St. Louis, MO.
 
 `2018-2019`**Independent Sub-contractor**. Wild Farm Alliance contract with Natural Resources Conservation Service. 
 
-`2017`**Teaching Assistant**. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
+`2014, 2017`**Teaching Assistant**. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
 
 `2016`**Independent Sub-contractor**. Audubon California contract with Almond Board of California.
 
 `2016-2017`**Graduate Student Researcher**. Lab of Dr. Marcel Holyoak, Department of Environmental Science and Policy, University of California, Davis.
 
-`2016`**Statistical Consultant** Farm Advisor for Field Crops and Pest Management. University of California Cooperative Extension.
+`2016`**Statistical Consultant** Farm Advisor for Field Crops and Pest Management. University of California Cooperative Extension. 
 
-`2014`**Teaching Assistant**. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
-
-`2014`**Teaching Assistant**. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
-
-`2013`**Teaching Assistant**. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
+`2013, 2014`**Teaching Assistant**. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
 
 `2013`**Lab Technician**. University of California Cooperative Extension, Division of Agriculture and Natural Resources.
 
@@ -217,6 +213,9 @@ Riparian Habitat Joint Venture. 2001. Version 1.0. The riparian bird conservatio
 `2000-2001` Humboldt-Toiyabe National Forest. “Riparian bird monitoring and habitat assessment in the East and West Walker River watershed.” $23,000, $23,879 
 
 ## __Invited Symposia, Seminars, & Workshops__
+
+`2020` __Heath, S. K.__. Functional green spaces: The Bring Conservation Home program in the St. Louis metropolitan area. *Symposium: Creating and Designing Wildlife
+Friendly Cities*. The Wildlife Society 27th Annual Conference. Virtual Conference. 
 
 `2020` __Heath, S. K.__. Landscape cover and connectivity mediate avian body condition and overwinter survival in an intensive agroecosystem. *Lightning Symposium: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers*. 7th North American Ornithological Conference. Virtual conference.
 
