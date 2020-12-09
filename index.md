@@ -79,13 +79,11 @@ __H. T. Harvey and Associates.__
 
 __National Biological Service.__
 
-`Oct 1996`	Research Assistant. Steller’s Eider survival study, Alaska. 
-
-`Oct 1995`	Research Assistant. Steller’s Eider survival study, Alaska. 
+`Oct 1995, 1996`	Research Assistant. Steller’s Eider survival study, Alaska. 
 
 __U.S. Fish & Wildlife Service.__
 
-`1995`	**Research Assistant**. California Condor Recovery Program. 
+`1995`Research Assistant. California Condor Recovery Program. 
 
 ## __Fellowships__
 
