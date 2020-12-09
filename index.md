@@ -31,13 +31,13 @@ I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---wi
 
 ## __Employment__
 
-__Living Earth Collaborative, Washington University. St. Louis, MO.__
+__Living Earth Collaborative, Washington University in St. Louis.__
 
 `2019-present`Postdoctoral Research Associate. 
 
 __Wild Farm Alliance__
 
-`2018-2019`Independent Sub-contractor. 
+`2018-2019`Independent Contractor. Collaborating researcher and co-author.
 
 __University of California, Davis. Department of Plant Sciences.__
 
@@ -47,7 +47,7 @@ __University of California, Davis. Department of Plant Sciences.__
 
 __Audubon California__
 
-`2016`Independent Sub-contractor. 
+`2016`Independent Contractor. Literature review and field research design.
 
 __University of California, Davis. Department of Environmental Science and Policy.__
 
@@ -57,9 +57,9 @@ __University of California, Davis. Department of Environmental Science and Polic
 
 `2013`Teaching Assistant. Graduate course: Principles and Applications of Ecology. 
 
-__University of California Cooperative Extension, , Division of Agriculture and Natural Resources.__
+__University of California Cooperative Extension, Division of Agriculture and Natural Resources.__
 
-`2016`Statistical Consultant to Farm Advisor for Field Crops and Pest Management. 
+`2016`Statistical Consultant. Lab of Rachel F. Long, Farm Advisor for Field Crops and Pest Management. 
 
 `2013`Lab Technician. Lab of Rachel F. Long, Farm Advisor for Field Crops and Pest Management.
 
@@ -67,7 +67,7 @@ __Point Blue Conservation Science__
 
 `2008-2010`	Part-time staff ecologist. Eastern Sierra Nevada Program, Terrestrial Ecology Division.  
 
-`2000-2010`	Program Director. Eastern Sierra Nevada Program, Terrestrial Ecology Division.  
+`2000-2008`	Program Director. Eastern Sierra Nevada Program, Terrestrial Ecology Division.  
 
 `1998-2000`	Lead Project Biologist. Eastern Sierra Nevada projects, Terrestrial Ecology Division.
 
@@ -86,6 +86,8 @@ __U.S. Fish & Wildlife Service.__
 `1995`Research Assistant. California Condor Recovery Program. 
 
 ## __Fellowships__
+
+`2019-2021`	Biodiversity Postdoctoral Fellowship, Living Earth Collaborative. 
 
 `2015-2016`	Dissertation Year Fellowship, University of California, Davis. 
 
