@@ -33,35 +33,59 @@ I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---wi
 
 __Living Earth Collaborative, Washington University. St. Louis, MO.__
 
-`2019-present`**Postdoctoral Research Associate**. 
+`2019-present`Postdoctoral Research Associate. 
 
 __Wild Farm Alliance__
 
-`2018-2019`**Independent Sub-contractor**. 
+`2018-2019`Independent Sub-contractor. 
 
-`2014, 2017`**Teaching Assistant**. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
+__University of California, Davis. Department of Plant Sciences.__
 
-`2016`**Independent Sub-contractor**. Audubon California contract with Almond Board of California.
+`2017`Teaching Assistant. Undergraduate course: Introduction to Sustainable Agriculture.  
 
-`2016-2017`**Graduate Student Researcher**. Lab of Dr. Marcel Holyoak, Department of Environmental Science and Policy, University of California, Davis.
+`2014`Teaching Assistant. Undergraduate course: Introduction to Sustainable Agriculture.  
 
-`2016`**Statistical Consultant** Farm Advisor for Field Crops and Pest Management. University of California Cooperative Extension. 
+__Audubon California__
 
-`2013, 2014`**Teaching Assistant**. Graduate course: Principles and Applications of Ecology. Department of Environmental Science and Policy, University of California, Davis. 
+`2016`Independent Sub-contractor. 
 
-`2013`**Lab Technician**. University of California Cooperative Extension, Division of Agriculture and Natural Resources.
+__University of California, Davis. Department of Environmental Science and Policy.__
 
-`2000-2010`	**Program Director** until 2008 and part-time staff ecologist until 2010. Eastern Sierra Nevada Program, Terrestrial Ecology Division, Point Blue Conservation Science. 
+`2016-2017`Graduate Student Researcher. Lab of Dr. Marcel Holyoak. 
 
-`1998-2000`	**Lead Project Biologist**. Eastern Sierra Nevada projects, Terrestrial Ecology Division, Point Blue Conservation Science.
+`2014`Teaching Assistant. Graduate course: Principles and Applications of Ecology. 
 
-`1997-2000`	**Research Assistant**. Adélie Penguin Project, Antarctica. H. T. Harvey and Associates.
+`2013`Teaching Assistant. Graduate course: Principles and Applications of Ecology. 
 
-`1997-1998`	**Field Research Supervisor** and **Field Station Manager**. Palomarin landbird demography study, Point Blue Conservation Science.
+__University of California Cooperative Extension, , Division of Agriculture and Natural Resources.__
 
-`1995, 1996`	**Research Assistant**. Steller’s Eider survival study, Alaska. National Biological Service.
+`2016`Statistical Consultant to Farm Advisor for Field Crops and Pest Management. 
 
-`1995`	**Research Assistant**. California Condor Recovery Program. U.S. Fish & Wildlife Service.
+`2013`Lab Technician. Lab of Rachel F. Long, Farm Advisor for Field Crops and Pest Management.
+
+__Point Blue Conservation Science__
+
+`2008-2010`	Part-time staff ecologist. Eastern Sierra Nevada Program, Terrestrial Ecology Division.  
+
+`2000-2010`	Program Director. Eastern Sierra Nevada Program, Terrestrial Ecology Division.  
+
+`1998-2000`	Lead Project Biologist. Eastern Sierra Nevada projects, Terrestrial Ecology Division.
+
+`1997-1998`	Field Research Supervisor, Field Station Manager. Palomarin Field Station landbird demography study.
+
+__H. T. Harvey and Associates.__
+
+`Austral summers, 1997-2000`	Research Assistant. Adélie Penguin Project, Antarctica. 
+
+__National Biological Service.__
+
+`Oct 1996`	Research Assistant. Steller’s Eider survival study, Alaska. 
+
+`Oct 1995`	Research Assistant. Steller’s Eider survival study, Alaska. 
+
+__U.S. Fish & Wildlife Service.__
+
+`1995`	**Research Assistant**. California Condor Recovery Program. 
 
 ## __Fellowships__
 
