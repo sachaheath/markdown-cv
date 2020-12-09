@@ -2,7 +2,7 @@
 layout: cv
 title: Sacha Heath
 ---
-`Updated: 14 October 2020`
+`Updated: 9 December 2020`
 
 # Sacha K. Heath
 
@@ -31,9 +31,13 @@ I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---wi
 
 ## __Employment__
 
-`2019-present`**Postdoctoral Research Associate**. Living Earth Collaborative, Washington University. St. Louis, MO.
+__Living Earth Collaborative, Washington University. St. Louis, MO.__
 
-`2018-2019`**Independent Sub-contractor**. Wild Farm Alliance contract with Natural Resources Conservation Service. 
+`2019-present`**Postdoctoral Research Associate**. 
+
+__Wild Farm Alliance__
+
+`2018-2019`**Independent Sub-contractor**. 
 
 `2014, 2017`**Teaching Assistant**. Undergraduate course: Introduction to Sustainable Agriculture. Department of Plant Sciences, University of California, Davis. 
 
