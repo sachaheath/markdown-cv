@@ -9,7 +9,7 @@ title: Sacha Heath
 <div id="webaddress">
 <a href="sachakheath@gmail.com">sachakheath[at]gmail[dot]com</a>
 | <a href="https://www.sachaheath.com/">sachaheath.com</a>
-  | <a href="https://twitter.com/sachaheath">@sachaheath</a> 
+
     
 </div>
 
@@ -172,7 +172,7 @@ __Heath, S. K.__ and G. Ballard. 2003. Bird species composition, phenology, nest
 
 ### __Book Chapters__
 
-__Heath, S. K.__, N. S. Fogel, J. C. Mullikin, and T. Hull. _In press_. An expanded scope of biodiversity in urban agriculture, with implications for conservation, *in* Urban Agroecology: Past, Present, and Future Directions in Interdisciplinary Research (Monika Egerer and Hamutahl Cohen, Editors). Abingdon, UK. CRC Press, Taylor & Francis.
+__Heath, S. K.__, N. S. Fogel, J. C. Mullikin, and T. Hull. 2020. An expanded scope of biodiversity in urban agriculture, with implications for conservation, *in* Urban Agroecology: Past, Present, and Future Directions in Interdisciplinary Research (Monika Egerer and Hamutahl Cohen, Editors). Abingdon, UK. CRC Press, Taylor & Francis.
 
 __Heath, S. K.__  2008. Yellow Warbler (Dendroica petechia). In California Bird Species of Special Concern: A ranked assessment of species, subspecies, and distinct populations of birds of immediate conservation concern in California (W. D. Shuford and T. Gardali, eds.), [pp. 332-339. Studies of Western Birds 1](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=10425&inline).
 
@@ -311,7 +311,7 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 
 ## __Peer Review__
 
-[*Publons Summary*](https://publons.com/researcher/1290983/sacha-heath/peer-review/). Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Change Ecology and Biogeography; Great Basin Birds; Integrative Zoology; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; PLOS ONE; Royal Society Open Science; The Condor: Ornithological Applications 
+[*Publons Summary*](https://publons.com/researcher/1290983/sacha-heath/peer-review/). Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Ecology and Biogeography; Global Ecology and Conservation; Great Basin Birds; Integrative Zoology; International Journal of Pest Management; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; Ornithological Applications; PLOS ONE; Royal Society Open Science; Science Advances 
 
 ## __Research Symposia Organization__
 
@@ -360,7 +360,9 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 
 ## __Teaching__
 
-`2020` *Presenter*. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
+`2021` *Guest Lecturer*. Undergarduate Course: Design Across Disciplines. Sam Fox School of Design & Visual Arts, Washington University in St. Louis.
+
+`2020` *Lecture*. Lunch and Learn Summer Seminar Series. Tyson Undergraduate Fellows Program, Washington University. St. Louis, Missouri.
 
 `2017` *Teaching Assistant*. Introduction to Sustainable Agriculture (PLS 15). Department of Plant Sciences, University of California, Davis.
 
