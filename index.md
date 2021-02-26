@@ -275,6 +275,8 @@ Friendly Cities*. The Wildlife Society 27th Annual Conference. Virtual Conferenc
 
 ## __Contributed Talks & Posters__
 
+`2020` Robeck, E., __S. K. Heath__, A. Gamboa, S. A. Adalsteinsson. The red lines between us: How historic segregation in the city of St. Louis, Missouri, USA affects the distribution of data in iNaturalist. Entomological Society of America 2020 Annual (Virtual) Meeting.
+
 `2019`__Heath, S. K.__ Seminatural landscape cover and crop characteristics mediate pest reduction by birds in an intensive agricultural region. Ecological Society of America. Louisville, KY.
 
 `2018` Taylor, R. D., E. M. Wood, __S. K. Heath__, and D. House. Monitoring the response of riparian birds to restoration of the Lower Owens River, California. 136th Stated Meeting of the American Ornithological Society. Tucson, AZ. (R.D. Taylor delivered poster).
