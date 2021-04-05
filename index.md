@@ -313,7 +313,7 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 
 ## __Peer Review__
 
-[*Publons Summary*](https://publons.com/researcher/1290983/sacha-heath/peer-review/). Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Global Ecology and Biogeography; Global Ecology and Conservation; Great Basin Birds; Integrative Zoology; International Journal of Pest Management; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; Ornithological Applications; PLOS ONE; Royal Society Open Science; Science Advances 
+[*Publons Summary*](https://publons.com/researcher/1290983/sacha-heath/peer-review/). Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Ecology & Evolution; Frontiers in Ecology and the Environment; Global Ecology and Biogeography; Global Ecology and Conservation; Great Basin Birds; Integrative Zoology; International Journal of Pest Management; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; Ornithological Applications; PLOS ONE; Royal Society Open Science; Science Advances 
 
 ## __Research Symposia Organization__
 
@@ -325,7 +325,7 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 
 ## __Additional Leadership & Service__
 
-`2020`*Co-organizer* The Living Earth Collaborative and Ecology, Evolution, and Population Biology Seminar Series. Department of Biology, Washington Unviersity.
+`2020-2021`*Co-organizer* The Living Earth Collaborative and Ecology, Evolution, and Population Biology Seminar Series. Department of Biology, Washington Unviersity.
 
 `2020`*Co-organizer* The Living Earth Collaborative Biodivers-a-palooza. Summer Biodiversity Scavenger Hunt: COVID-19 Version.
 
@@ -395,6 +395,8 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 ## __Outreach__
 
 ### __Talks, Webinars, & Workshops__
+
+`2021` Wild Farm Alliance and Davis Ranches (Virtual) Field Day [presentation](https://www.youtube.com/watch?v=iIWz79lBNC4&feature=youtu.be).
 
 `2019` [Supporting beneficial birds and managing pest birds](https://eorganic.org/node/33928). eOrganic Webinar series. 
 
