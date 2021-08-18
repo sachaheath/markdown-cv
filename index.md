@@ -19,7 +19,7 @@ Avian ecology and conservation, conservation effectiveness, trophic interactions
 
 ## __Currently__
 
-I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---with mentors at Saint Louis University, Washington University, and the Saint Louis Zoo. In collaboration with St. Louis Audubon's Bring Conservation Home program I am studying the effectiveness of residential native plant gardens in improving functional bird habitat along an urbanization gradient. 
+I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---with mentors at Saint Louis University, Washington University, and the Saint Louis Zoo. In collaboration with St. Louis Audubon's Bring Conservation Home program I am studying the effectiveness of residential native plant gardens in improving functional bird habitat along an urbanization gradient. I remain actively involved in conservation in agroecological systems, specifically transfering ecological information between researchers and farmers.
 
 ## __Education__
 
@@ -396,6 +396,8 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 
 ### __Talks, Webinars, & Workshops__
 
+`2021` The birds and bees in St. Louis metropolitan area (oh, mosquitoes too!). [Presentation to St. Louis Audubon Society](https://www.sachaheath.com/news-and-musings/presentation-at-the-st-louis-audubon-society-annual-meeting)
+
 `2021` Wild Farm Alliance and Davis Ranches (Virtual) Field Day [presentation](https://www.youtube.com/watch?v=iIWz79lBNC4&feature=youtu.be).
 
 `2019` [Supporting beneficial birds and managing pest birds](https://eorganic.org/node/33928). eOrganic Webinar series. 
@@ -453,6 +455,8 @@ Heath, S. K. 2000. [Eastern Sierra Riparian Songbird Conservation Project: using
 Heath, S. K. 2000. [Great Basin Riparian: songbird enhancement east of the Sierra](https://www.sachaheath.com/uploads/1/6/9/8/16984014/heath_2000_observer121.pdf). Observer: Quarterly Journal of PRBO Conservation Science. Number 121. Summer.
 
 ### __Research Media Coverage__
+
+Breining, Greg. (2021, Summer 21). [At orchards and vineyards, birds are outperforming pesticides](https://www.allaboutbirds.org/news/at-orchards-and-vineyards-birds-are-outperforming-pesticides/). Living Bird.
 
 Coatney, Kathy. (2020, September 9). [Birds help reduce codling moth larvae in orchards](https://www.agalert.com/story/?id=14290). AgAlert: The Weekly Newsletter fro California Agriculture.
 
