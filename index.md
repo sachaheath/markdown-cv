@@ -19,7 +19,7 @@ Avian ecology and conservation, conservation effectiveness, trophic interactions
 
 ## __Currently__
 
-I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---with mentors at Saint Louis University, Washington University, and the Saint Louis Zoo. In collaboration with St. Louis Audubon's Bring Conservation Home program I am studying the effectiveness of residential native plant gardens in improving functional bird habitat along an urbanization gradient. I remain actively involved in conservation in agroecological systems, specifically transfering ecological information between researchers and farmers.
+I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---with mentors at Saint Louis University, Washington University, and the Saint Louis Zoo. In collaboration with St. Louis Audubon's Bring Conservation Home program I am studying the effectiveness of residential native plant gardens in improving functional bird habitat along an urbanization gradient. I remain actively involved in conservation in agroecological systems, specifically transferring ecological information between researchers and farmers.
 
 ## __Education__
 
