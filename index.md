@@ -2,7 +2,7 @@
 layout: cv
 title: Sacha Heath
 ---
-`Updated: august 18, 2021`
+`Updated: November 2, 2021`
 
 # Sacha K. Heath
 
@@ -311,10 +311,6 @@ Friendly Cities*. The Wildlife Society 27th Annual Conference. Virtual Conferenc
 
 Ecological Society of America, American Society of Ornithology, Society for Conservation Biology, The Wildlife Society
 
-## __Peer Review__
-
-[*Publons Summary*](https://publons.com/researcher/1290983/sacha-heath/peer-review/). Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Ecology & Evolution; Frontiers in Ecology and the Environment; Global Ecology and Biogeography; Global Ecology and Conservation; Great Basin Birds; Integrative Zoology; International Journal of Pest Management; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; Ornithological Applications; PLOS ONE; Royal Society Open Science; Science Advances 
-
 ## __Research Symposia Organization__
 
 `2020`*Co-organizer* with Matthew. D. Johnson. Lightning Symposium and Presenter Panel: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers. 7th North American Ornithological Conference. Virtual conference.
@@ -322,6 +318,14 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 `2006` *Co-organizer* with  Kim Kreitinger. Conservation and management of upland birds and habitats in eastern California: a synthesis of issues and solutions for sagebrush, desert, and grassland bird populations. UC White Mountain Resaerch Station and Intermountain West Joint Venture, Bishop, CA.
 
 `2002`*Co-organizer* with Sandra Scoggin. California Partners in Flight bi-annual meeting. Lee Vining, CA. 2002. 
+
+## __Peer Review__
+
+[*Publons Summary*](https://publons.com/researcher/1290983/sacha-heath/peer-review/).
+
+`Sep 2021 - present` Associate Editor, [Ecology and Evolution](https://onlinelibrary.wiley.com/journal/20457758)
+
+Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Ecology & Evolution; Frontiers in Ecology and the Environment; Global Ecology and Biogeography; Global Ecology and Conservation; Great Basin Birds; Integrative Zoology; International Journal of Pest Management; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; Ornithological Applications; PLOS ONE; Royal Society Open Science; Science Advances 
 
 ## __Additional Leadership & Service__
 
@@ -455,6 +459,8 @@ Heath, S. K. 2000. [Eastern Sierra Riparian Songbird Conservation Project: using
 Heath, S. K. 2000. [Great Basin Riparian: songbird enhancement east of the Sierra](https://www.sachaheath.com/uploads/1/6/9/8/16984014/heath_2000_observer121.pdf). Observer: Quarterly Journal of PRBO Conservation Science. Number 121. Summer.
 
 ### __Research Media Coverage__
+
+Wild Farm Alliance. (Fall 2021). [Video: Habitat Increases Birds' Pest Control Services in Walnuts](https://youtu.be/iGC79mCZVpc).
 
 Breining, Greg. (2021, Summer 21). [At orchards and vineyards, birds are outperforming pesticides](https://www.allaboutbirds.org/news/at-orchards-and-vineyards-birds-are-outperforming-pesticides/). Living Bird.
 
