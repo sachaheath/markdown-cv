@@ -307,10 +307,6 @@ Friendly Cities*. The Wildlife Society 27th Annual Conference. Virtual Conferenc
 
 `1999` Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ Current breeding distribution of passerines in riparian habitat in California’s Central Valley and Eastern Sierra: Range reduction and predictive models of habitat features. 117th Stated Meeting of the American Ornithologists’ Union. Ithaca, NY. (co-presenter of poster with G. Ballard).
 
-## __Society Membership__
-
-Ecological Society of America, American Society of Ornithology, Society for Conservation Biology, The Wildlife Society
-
 ## __Research Symposia Organization__
 
 `2020`*Co-organizer* with Matthew. D. Johnson. Lightning Symposium and Presenter Panel: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers. 7th North American Ornithological Conference. Virtual conference.
@@ -326,6 +322,10 @@ Ecological Society of America, American Society of Ornithology, Society for Cons
 `Sep 2021 - present` Associate Editor, [Ecology and Evolution](https://onlinelibrary.wiley.com/journal/20457758)
 
 Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Ecology & Evolution; Frontiers in Ecology and the Environment; Global Ecology and Biogeography; Global Ecology and Conservation; Great Basin Birds; Integrative Zoology; International Journal of Pest Management; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; Ornithological Applications; PLOS ONE; Royal Society Open Science; Science Advances 
+
+## __Society Membership__
+
+Ecological Society of America, American Society of Ornithology, Society for Conservation Biology, The Wildlife Society
 
 ## __Additional Leadership & Service__
 
@@ -434,7 +434,9 @@ Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation;
 
 `2001` 1st Annual Mono Basin Bird Chautauqua. Lee Vining, CA.
 
-### __Blog Posts & Popular Articles__
+### __Blog Posts, Popular Articles, Videos__
+
+Wild Farm Alliance, C. Haag, S. K. Heath. (Fall 2021). [Video: Habitat Increases Birds' Pest Control Services in Walnuts](https://youtu.be/iGC79mCZVpc).
 
 Heath, S. K. and R. F. Long. 2020. [Managing walnut orchards for insect-eating birds](http://www.sacvalleyorchards.com/walnuts/insects-mites-walnuts/insect-eating-birds/). Sacramento Valley Orchard Source.
 
@@ -459,8 +461,6 @@ Heath, S. K. 2000. [Eastern Sierra Riparian Songbird Conservation Project: using
 Heath, S. K. 2000. [Great Basin Riparian: songbird enhancement east of the Sierra](https://www.sachaheath.com/uploads/1/6/9/8/16984014/heath_2000_observer121.pdf). Observer: Quarterly Journal of PRBO Conservation Science. Number 121. Summer.
 
 ### __Research Media Coverage__
-
-Wild Farm Alliance. (Fall 2021). [Video: Habitat Increases Birds' Pest Control Services in Walnuts](https://youtu.be/iGC79mCZVpc).
 
 Breining, Greg. (2021, Summer 21). [At orchards and vineyards, birds are outperforming pesticides](https://www.allaboutbirds.org/news/at-orchards-and-vineyards-birds-are-outperforming-pesticides/). Living Bird.
 
