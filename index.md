@@ -325,7 +325,7 @@ Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation;
 
 ## __Society Membership__
 
-Ecological Society of America, American Society of Ornithology, Society for Conservation Biology, The Wildlife Society
+Ecological Society of America, American Society of Ornithology, Society for Conservation Biology
 
 ## __Additional Leadership & Service__
 
