@@ -2,7 +2,7 @@
 layout: cv
 title: Sacha Heath
 ---
-`Updated: November 2, 2021`
+`Updated: May 12, 2023`
 
 # Sacha K. Heath
 
@@ -15,11 +15,11 @@ title: Sacha Heath
 
 ## __Research Interests__
 
-Avian ecology and conservation, conservation effectiveness, trophic interactions, agroecology, urban ecology, habitat selection, community ecology
+community, landscape, & avian ecology, biodiversity conservation, conservation effectiveness, trophic interactions, agroecology, urban ecology, habitat selection, multi-benefit quantification
 
 ## __Currently__
 
-I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---with mentors at Saint Louis University, Washington University, and the Saint Louis Zoo. In collaboration with St. Louis Audubon's Bring Conservation Home program I am studying the effectiveness of residential native plant gardens in improving functional bird habitat along an urbanization gradient. I remain actively involved in conservation in agroecological systems, specifically transferring ecological information between researchers and farmers.
+I am an applied ecologist with the Resilient Landscapes Program of the San Francisco Estuary Institute, focusing primarily on evidence-based biodiversity support and habitat enhancement for multiple benefits in cities. I remain involved in urban ecology and agroecological research, and transferring ecological information between researchers and farmers and urban residents.
 
 ## __Education__
 
@@ -31,9 +31,13 @@ I am a Biodiversity Postdoctoral Fellow with the Living Earth Collaborative---wi
 
 ## __Employment__
 
+__San Francisco Estuary Institute.__
+
+`2022-present`Applied Ecologist. 
+
 __Living Earth Collaborative, Washington University in St. Louis.__
 
-`2019-present`Postdoctoral Research Associate. 
+`2019-2022`Postdoctoral Research Associate. 
 
 __Wild Farm Alliance__
 
@@ -87,7 +91,7 @@ __U.S. Fish & Wildlife Service.__
 
 ## __Fellowships__
 
-`2019-2021`	Biodiversity Postdoctoral Fellowship, Living Earth Collaborative. 
+`2019-2022`	Biodiversity Postdoctoral Fellowship, Living Earth Collaborative. 
 
 `2015-2016`	Dissertation Year Fellowship, University of California, Davis. 
 
@@ -325,7 +329,7 @@ Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation;
 
 ## __Society Membership__
 
-Ecological Society of America, American Society of Ornithology, Society for Conservation Biology
+Ecological Society of America, American Society of Ornithology
 
 ## __Additional Leadership & Service__
 
