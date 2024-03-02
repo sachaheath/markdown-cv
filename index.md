@@ -7,7 +7,7 @@ title: Sacha Heath
 # Sacha K. Heath
 
 <div id="webaddress">
-<a href="sachakheath@gmail.com">sachakheath[at]gmail[dot]com</a>
+<a href="sachah@sfei.org">sachah[at]sfei[dot]org</a> | <a href="sachakheath@gmail.com">sachakheath[at]gmail[dot]com</a>
 | <a href="https://www.sachaheath.com/">sachaheath.com</a>
 
     
@@ -19,7 +19,7 @@ community, landscape, & avian ecology, biodiversity conservation, conservation e
 
 ## __Currently__
 
-I am a Senior Ecological Scientist with the Resilient Landscapes Program of the San Francisco Estuary Institute, focusing primarily on evidence-based biodiversity support and habitat enhancement for multiple benefits in cities.
+I am a Senior Ecological Scientist with the Resilient Landscapes Program of the San Francisco Estuary Institute, focusing on evidence-based biodiversity support and habitat enhancement for multiple benefits in cities.
 
 ## __Education__
 
