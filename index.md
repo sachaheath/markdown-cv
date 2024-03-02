@@ -2,7 +2,7 @@
 layout: cv
 title: Sacha Heath
 ---
-`Updated: May 12, 2023`
+`Updated: March 1, 2024`
 
 # Sacha K. Heath
 
@@ -19,7 +19,7 @@ community, landscape, & avian ecology, biodiversity conservation, conservation e
 
 ## __Currently__
 
-I am an applied ecologist with the Resilient Landscapes Program of the San Francisco Estuary Institute, focusing primarily on evidence-based biodiversity support and habitat enhancement for multiple benefits in cities. I remain involved in urban ecology and agroecological research, and transferring ecological information between researchers and farmers and urban residents.
+I am a Senior Ecological Scientist with the Resilient Landscapes Program of the San Francisco Estuary Institute, focusing primarily on evidence-based biodiversity support and habitat enhancement for multiple benefits in cities.
 
 ## __Education__
 
@@ -33,15 +33,20 @@ I am an applied ecologist with the Resilient Landscapes Program of the San Franc
 
 __San Francisco Estuary Institute.__
 
-`2022-present`Applied Ecologist. 
+`July 2023-present`Senior Scientist. 
+
+`Feb 2022-June 2023`Environmental Scientist. 
+
 
 __Living Earth Collaborative, Washington University in St. Louis.__
 
 `2019-2022`Postdoctoral Research Associate. 
 
+
 __Wild Farm Alliance__
 
 `2018-2019`Independent Contractor. Collaborating researcher and co-author.
+
 
 __University of California, Davis. Department of Plant Sciences.__
 
@@ -49,9 +54,11 @@ __University of California, Davis. Department of Plant Sciences.__
 
 `2014`Teaching Assistant. Undergraduate course: Introduction to Sustainable Agriculture.  
 
+
 __Audubon California__
 
 `2016`Independent Contractor. Literature review and field research design.
+
 
 __University of California, Davis. Department of Environmental Science and Policy.__
 
@@ -61,11 +68,13 @@ __University of California, Davis. Department of Environmental Science and Polic
 
 `2013`Teaching Assistant. Graduate course: Principles and Applications of Ecology. 
 
+
 __University of California Cooperative Extension, Division of Agriculture and Natural Resources.__
 
 `2016`Statistical Consultant. Lab of Rachel F. Long, Farm Advisor for Field Crops and Pest Management. 
 
 `2013`Lab Technician. Lab of Rachel F. Long, Farm Advisor for Field Crops and Pest Management.
+
 
 __Point Blue Conservation Science__
 
@@ -76,6 +85,7 @@ __Point Blue Conservation Science__
 `1998-2000`	Lead Project Biologist. Eastern Sierra Nevada projects, Terrestrial Ecology Division.
 
 `1997-1998`	Field Research Supervisor, Field Station Manager. Palomarin Field Station landbird demography study.
+
 
 __H. T. Harvey and Associates.__
 
@@ -127,12 +137,16 @@ __U.S. Fish & Wildlife Service.__
 
 ### __Data & Code__
 
+Iknayan, Kelly, __Sacha Heath__, Scott Terrill, Daniel Wenny, Stephanie Panlasigui, Yiwei Wang, Erin Beller, Erica Spotswood. (2023). Patterns in bird and pollinator occupancy and richness in a mosaic of urban office parks across scales and seasons [Dataset]. Dryad. [doi.org/10.5061/dryad.0k6djhb68](https://doi.org/10.5061/dryad.0k6djhb68)
+
 __Heath, S. K.__, Fogel, Nina S., Mullikin, Jennifer C., & Hull, Trey. (2020). Data and code for Chapter 1: An expanded scope of biodiversity in urban agriculture, with implications for conservation. (Version 1.0.0) [Data set]. Urban Agroecology: Past, Present, and Future Directions in Interdisciplinary Research. Abingdon, UK: CRC Press, Taylor & Francis. [DOI: 10.5281/zenodo.3989949](https://zenodo.org/record/3989949)
 
 __Heath, S. K.__. 2019. Data and Code for: Multiscale habitat mediates pest reduction by birds in an intensive agricultural region (Version 1.0) [Data set]. Ecosphere. Zenodo. [DOI: 10.5281/zenodo.3374039](https://zenodo.org/record/3374039)
 
 
 ### __Journal Articles__
+
+Iknayan, Kelly, __S. K. Heath__, S. B. Terrill, D. G. Wenny, S. Panlasigui, Y. Wang, E. E. Beller, E. N. Spotswood. (2023). Patterns in bird and pollinator occupancy and richness in a mosaic of urban office parks across scales and seasons. Ecology and Evolution 17(3)1-17. [doi.org/10.1002/ece3.10958](https://doi.org/10.1002/ece3.10958).
 
 Hauber, M. E., __S. K. Heath__, and C. M. Tonra. 2020. Direct estimates of breeding site fidelity and natal philopatry in parasitic Brown-headed Cowbirds (*Molothrus ater*). ARDEA 108(2):129-137. [DOI: 10.5253/arde.v108i2.a6](https://bioone.org/journals/ardea/volume-108/issue-2/arde.v108i2.a6/Direct-Estimates-of-Breeding-Site-Fidelity-and-Natal-Philopatry-in/10.5253/arde.v108i2.a6.short)
 
