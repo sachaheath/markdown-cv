@@ -146,7 +146,7 @@ __Heath, S. K.__. 2019. Data and Code for: Multiscale habitat mediates pest redu
 
 ### __Journal Articles__
 
-Iknayan, Kelly, __S. K. Heath__, S. B. Terrill, D. G. Wenny, S. Panlasigui, Y. Wang, E. E. Beller, E. N. Spotswood. (2024). Patterns in bird and pollinator occupancy and richness in a mosaic of urban office parks across scales and seasons. Ecology and Evolution 17(3)1-17. [doi.org/10.1002/ece3.10958](https://doi.org/10.1002/ece3.10958).
+Iknayan, K. J., __S. K. Heath__, S. B. Terrill, D. G. Wenny, S. Panlasigui, Y. Wang, E. E. Beller, E. N. Spotswood. (2024). Patterns in bird and pollinator occupancy and richness in a mosaic of urban office parks across scales and seasons. Ecology and Evolution 17(3)1-17. [doi.org/10.1002/ece3.10958](https://doi.org/10.1002/ece3.10958).
 
 Hauber, M. E., __S. K. Heath__, and C. M. Tonra. 2020. Direct estimates of breeding site fidelity and natal philopatry in parasitic Brown-headed Cowbirds (*Molothrus ater*). ARDEA 108(2):129-137. [DOI: 10.5253/arde.v108i2.a6](https://bioone.org/journals/ardea/volume-108/issue-2/arde.v108i2.a6/Direct-Estimates-of-Breeding-Site-Fidelity-and-Natal-Philopatry-in/10.5253/arde.v108i2.a6.short)
 
