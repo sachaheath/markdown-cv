@@ -12,13 +12,13 @@ title: Sacha Heath
     
 </div>
 
-## __Research Interests__
-
-urban ecology; multi-benefit quantification; community, landscape, & avian ecology; biodiversity conservation; conservation effectiveness; trophic interactions; agroecology; habitat selection 
-
 ## __Currently__
 
 I am a Senior Ecological Scientist with the Resilient Landscapes Program of the San Francisco Estuary Institute, focusing on evidence-based biodiversity support and habitat enhancement for multiple benefits in cities.
+
+## __Research Interests__
+
+urban ecology; multi-benefit quantification; community, landscape, & avian ecology; biodiversity conservation; conservation effectiveness; trophic interactions; agroecology; habitat selection 
 
 ## __Education__
 
