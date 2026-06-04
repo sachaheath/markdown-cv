@@ -2,20 +2,19 @@
 layout: cv
 title: Sacha Heath
 ---
-`Updated: March 1, 2024`
+`Updated: June 3, 2026`
 
 # Sacha K. Heath
 
 <div id="webaddress">
-<a href="sachah@sfei.org">sachah[at]sfei[dot]org</a> | <a href="sachakheath@gmail.com">sachakheath[at]gmail[dot]com</a>
-| <a href="https://www.sachaheath.com/">sachaheath.com</a>
+<a href="sachah@sfei.org">sachah[at]sfei[dot]org</a> 
 
     
 </div>
 
 ## __Research Interests__
 
-community, landscape, & avian ecology, biodiversity conservation, conservation effectiveness, trophic interactions, agroecology, urban ecology, habitat selection, multi-benefit quantification
+urban ecology | multi-benefit quantification | community, landscape, & avian ecology | biodiversity conservation | conservation effectiveness | trophic interactions | agroecology | habitat selection 
 
 ## __Currently__
 
@@ -146,6 +145,8 @@ __Heath, S. K.__. 2019. Data and Code for: Multiscale habitat mediates pest redu
 
 ### __Journal Articles__
 
+Slatin, W. A., __S. K. Heath__, A. Aviles Gamboa, R. B. McDowell, E. K. Robeck, E. G. Biro, E. G., and S. A. Adalsteinsson. 2026. Segregation, socioeconomics, and urban design produce spatial bias in community science biodiversity data: A case study in Saint Louis, Missouri, USA. Urban Ecosystems 29:89. [doi.org/10.1007/s11252-026-01927-3](https://doi.org/10.1007/s11252-026-01927-3).
+
 Iknayan, K. J., __S. K. Heath__, S. B. Terrill, D. G. Wenny, S. Panlasigui, Y. Wang, E. E. Beller, E. N. Spotswood. (2024). Patterns in bird and pollinator occupancy and richness in a mosaic of urban office parks across scales and seasons. Ecology and Evolution 17(3)1-17. [doi.org/10.1002/ece3.10958](https://doi.org/10.1002/ece3.10958).
 
 Hauber, M. E., __S. K. Heath__, and C. M. Tonra. 2020. Direct estimates of breeding site fidelity and natal philopatry in parasitic Brown-headed Cowbirds (*Molothrus ater*). ARDEA 108(2):129-137. [DOI: 10.5253/arde.v108i2.a6](https://bioone.org/journals/ardea/volume-108/issue-2/arde.v108i2.a6/Direct-Estimates-of-Breeding-Site-Fidelity-and-Natal-Philopatry-in/10.5253/arde.v108i2.a6.short)
@@ -216,47 +217,42 @@ California Partners in Flight. 2002. [Version 1.1](http://www.prbo.org/calpif/ht
 
 Riparian Habitat Joint Venture. 2001. Version 1.0. The riparian bird conservation plan: a strategy for reversing the decline of riparian associated birds in California. Version 1.0. California Partners in Flight. 
 
-## __Selected Grants and Contracts__
+## __Contributed Talks & Posters__
 
-`2018-2020` Wild Farm Alliance and Natural Resource Conservation Service Conservation Innovation Grant. “Key Learnings, Habitat Assessments and Conservation Opportunities for Using Beneficial Birds as Pest Control on Farms.” $64,181
+`2024` __Heath, S. K.__, M. Foley, K. Iknayan, V. Lee and S.Pang. Integrating science, planning, design, and authentic tribal and community engagement for multi-benefit nature-based solutions in urban landscapes. 8th International Conference URBIO: Urban Biodiversity and Design for Local Communities
+June 24 – 26, 2024, Columbia, Missouri. [Book of Abstracts](https://research-repository.uwa.edu.au/files/414063925/UrbanBiodiversityProceedingsFinal2024.pdf)
 
-`2016` Audubon California. “Literature and field research design to investigate interactions between birds and almond orchards.” $7,500 
+`2020` Robeck, E., __S. K. Heath__, A. Gamboa, S. A. Adalsteinsson. The red lines between us: How historic segregation in the city of St. Louis, Missouri, USA affects the distribution of data in iNaturalist. Entomological Society of America 2020 Annual (Virtual) Meeting.
 
-*Note: On the following grants or contracts, I was PI or Co-PI while employed by Point Blue Conservation Science (then PRBO Conservation Science)*.
+`2019`__Heath, S. K.__ Seminatural landscape cover and crop characteristics mediate pest reduction by birds in an intensive agricultural region. Ecological Society of America. Louisville, KY.
 
-`2007-2008` Bureau of Land Management. “Off Highway Route Restoration Project: Avian Monitoring.” $75,000 
+`2018` Taylor, R. D., E. M. Wood, __S. K. Heath__, and D. House. Monitoring the response of riparian birds to restoration of the Lower Owens River, California. 136th Stated Meeting of the American Ornithological Society. Tucson, AZ. (R.D. Taylor delivered poster).
 
-`2006-2007` Bureau of Land Management. “Bishop Resource Area Aspen Stewardship Project: Avian Monitoring.” $10,000, $7,270 
+`2017` __Heath, S. K.__ and K. Strum. Almond Ornithology: A review of bird and nut tree interactions in Mediterranean climates worldwide to inform sustainability. Growing Advantage: The Almond Conference. Sacramento, CA. (K. Strum delivered poster).
 
-`2005-2007` Natural Resources Conservation Service Wetlands Reserve Program. “The key to adaptive restoration and management: all-bird monitoring on Adobe Valley, LLC Properties in Adobe Valley and Environs.” $14,000, $21,400, $21,400 
+`2015` Kross, S., __S. Heath__, K. Velas, R. Kelsey, and C. Soykan. Links between on farm habitat, bird diversity, pest control and crop damage in California’s Central Valley. 27th International Congress for Conservation Biology. Montpellier, France. (S. Kross delivered talk)
 
-`2005-2007` Bureau of Land Management/United States Geological Survey/Joint Fire Science. “Evaluation of Pinyon Removal Effects Typical of a Wildland-Urban Interface Fuels Reduction Project, Mono County, California: Avian Monitoring Component.” $10,000, $10,000, $10,000
+`2014` __Heath, S. K.__, R. F. Long, and M. Holyoak. Avian pest control in walnut orchards: does local scale biodiversity enhancement facilitate the provision of pest control services? Ecological Society of America, Annual Meeting. Sacramento, CA. (poster)
 
-`2003-2006` National Park Service Sierra Nevada Inventory and Monitoring Network. “Demographic bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” $16,000, $15,000, $15,000, $15,000
+`2012` __Heath, S. K.__ and M. D. Johnson. No top-down effects of insectivorous birds and bats on arthropods and sapling black cottonwoods in the context of restoration. (First Place Poster, Student Poster Award). Wildlife Society Western Section, Annual Conference. Sacramento, CA.
 
-`2006` National Forest Foundation and Friends of the Inyo. “Collaborative Jeffrey Pine Restoration Project.” $8,865 
+`2012` __Heath, S. K.__ and M. D. Johnson. No top-down effects of insectivorous birds and bats on arthropods and sapling black cottonwoods in the context of restoration. (Best Poster, Poster Contest). 5th Annual Ecology Graduate Student Symposium. Davis, CA.
 
-`2005` Yosemite National Park and Sierra Nevada Inventory and Monitoring Network. “Non- Native Vascular Plant Inventory of Riparian Areas in Yosemite National Park, California.” $65,000 
+`2006` __Heath, S. K.__ Songbird use of habitats managed for Greater Sage-Grouse in eastern California. California Partners in Flight. Bishop, CA.
 
-`2005` Bureau of Land Management. “Eastern Sierra Riparian Songbird Conservation.” $35,000
+`2006` __Heath, S. K.__ and A. Holmes. Bird responses to woodland removal projects on Steens Mountain, Oregon and Rancheria Gulch, California. California Partners in Flight. August 2006, Bishop, CA.
 
-`1998-2004` U.S. Forest Service Region 5 Partners in Flight Program. “Eastern Sierra Riparian Songbird Monitoring.” $40,000, $30,000, $30,000, $30,000, $21,700, $21,687, $24,000
+`2002` __Heath, S. K.__, G. Ballard, and C. McCreedy. How viable are yellow warbler populations in eastern California and what habitat features affect their nesting success? 3rd International Partners in Flight Conference, Asilomar, CA. (poster).
 
-`2004` Adobe Valley, LLC and Greenbridges, LLC. “Breeding bird assessment on Adobe Valley, LLC properties in Adobe Valley and environs.” $10,000 
+`2002` __Heath, S. K.__ and G. Ballard. Eastern Sierra Riparian Songbird Conservation Project: A case study in Partners in Flight Riparian Bird Conservation Plan implementation. 3rd International Partners in Flight Conference. Asilomar, CA.
 
-`2003` California Department of Fish and Game. “Eastern Sierra Riparian Songbird Conservation.” $6,800 
+`2001` __Heath, S. K.__ and G. Ballard. Vide supra. California Partners in Flight meeting. California Partners in Flight. Lee Vining, CA.
 
-`2003` Department of Defense, Mountain Warfare Marine Weapons Training Facility. “Riparian monitoring and habitat assessment in the West Walker River watershed.” $12,000 
+`2001` __Heath, S. K.__., G. Ballard, and G. Geupel. Vide supra. Annual Meeting of the Western Section of The Wildlife Society. Sacramento, CA.
 
-`2003` Neotropical Migratory Bird Conservation Act. “Eastern Sierra Riparian Songbird Conservation.” $7,153
+`2001` __Heath, S. K.__ and G. Ballard. Riparian songbird and habitat relationships in the eastern Sierra Nevada. Riparian Habitat and Floodplains Conference. Sacramento, CA.
 
-`1998-2002` National Fish and Wildlife Foundation, Bureau of Land Management.“Eastern Sierra Riparian Songbird Conservation.” $50,000, $39,400, $39,400, $26,000, $30,000 
-
-`2002` National Park Service Small Parks Grants. “Demographic Bird monitoring in montane meadow and riparian habitats of Devils Postpile National Monument.” $15,000 
-
-`2002` Los Angeles Department of Water and Power and Inyo County Water Department. “Riparian bird monitoring and habitat assessment in riverine/riparian habitats of the Lower Owens River Project.” $25,000 
-
-`2000-2001` Humboldt-Toiyabe National Forest. “Riparian bird monitoring and habitat assessment in the East and West Walker River watershed.” $23,000, $23,879 
+`1999` Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ Current breeding distribution of passerines in riparian habitat in California’s Central Valley and Eastern Sierra: Range reduction and predictive models of habitat features. 117th Stated Meeting of the American Ornithologists’ Union. Ithaca, NY. (co-presenter of poster with G. Ballard).
 
 ## __Invited Symposia, Seminars, & Workshops__
 
@@ -291,40 +287,6 @@ Friendly Cities*. The Wildlife Society 27th Annual Conference. Virtual Conferenc
 
 `2006` __Heath, S. K.__ and G. Ballard. Breeding bird species richness and occurrence in riparian aspen habitat of the eastern Sierra Nevada: are all aspen groves the same? *Aspen Symposium*. The Wildlife Society Western Section. Rohnert Park, CA. (poster)
 
-## __Contributed Talks & Posters__
-
-`2020` Robeck, E., __S. K. Heath__, A. Gamboa, S. A. Adalsteinsson. The red lines between us: How historic segregation in the city of St. Louis, Missouri, USA affects the distribution of data in iNaturalist. Entomological Society of America 2020 Annual (Virtual) Meeting.
-
-`2019`__Heath, S. K.__ Seminatural landscape cover and crop characteristics mediate pest reduction by birds in an intensive agricultural region. Ecological Society of America. Louisville, KY.
-
-`2018` Taylor, R. D., E. M. Wood, __S. K. Heath__, and D. House. Monitoring the response of riparian birds to restoration of the Lower Owens River, California. 136th Stated Meeting of the American Ornithological Society. Tucson, AZ. (R.D. Taylor delivered poster).
-
-`2017` __Heath, S. K.__ and K. Strum. Almond Ornithology: A review of bird and nut tree interactions in Mediterranean climates worldwide to inform sustainability. Growing Advantage: The Almond Conference. Sacramento, CA. (K. Strum delivered poster).
-
-`2015` Kross, S., __S. Heath__, K. Velas, R. Kelsey, and C. Soykan. Links between on farm habitat, bird diversity, pest control and crop damage in California’s Central Valley. 27th International Congress for Conservation Biology. Montpellier, France. (S. Kross delivered talk)
-
-`2014` __Heath, S. K.__, R. F. Long, and M. Holyoak. Avian pest control in walnut orchards: does local scale biodiversity enhancement facilitate the provision of pest control services? Ecological Society of America, Annual Meeting. Sacramento, CA. (poster)
-
-`2012` __Heath, S. K.__ and M. D. Johnson. No top-down effects of insectivorous birds and bats on arthropods and sapling black cottonwoods in the context of restoration. (First Place Poster, Student Poster Award). Wildlife Society Western Section, Annual Conference. Sacramento, CA.
-
-`2012` __Heath, S. K.__ and M. D. Johnson. No top-down effects of insectivorous birds and bats on arthropods and sapling black cottonwoods in the context of restoration. (Best Poster, Poster Contest). 5th Annual Ecology Graduate Student Symposium. Davis, CA.
-
-`2006` __Heath, S. K.__ Songbird use of habitats managed for Greater Sage-Grouse in eastern California. California Partners in Flight. Bishop, CA.
-
-`2006` __Heath, S. K.__ and A. Holmes. Bird responses to woodland removal projects on Steens Mountain, Oregon and Rancheria Gulch, California. California Partners in Flight. August 2006, Bishop, CA.
-
-`2002` __Heath, S. K.__, G. Ballard, and C. McCreedy. How viable are yellow warbler populations in eastern California and what habitat features affect their nesting success? 3rd International Partners in Flight Conference, Asilomar, CA. (poster).
-
-`2002` __Heath, S. K.__ and G. Ballard. Eastern Sierra Riparian Songbird Conservation Project: A case study in Partners in Flight Riparian Bird Conservation Plan implementation. 3rd International Partners in Flight Conference. Asilomar, CA.
-
-`2001` __Heath, S. K.__ and G. Ballard. Vide supra. California Partners in Flight meeting. California Partners in Flight. Lee Vining, CA.
-
-`2001` __Heath, S. K.__., G. Ballard, and G. Geupel. Vide supra. Annual Meeting of the Western Section of The Wildlife Society. Sacramento, CA.
-
-`2001` __Heath, S. K.__ and G. Ballard. Riparian songbird and habitat relationships in the eastern Sierra Nevada. Riparian Habitat and Floodplains Conference. Sacramento, CA.
-
-`1999` Ballard, G., G. Geupel, N. Nur, T. Gardali, and __S. K. Heath.__ Current breeding distribution of passerines in riparian habitat in California’s Central Valley and Eastern Sierra: Range reduction and predictive models of habitat features. 117th Stated Meeting of the American Ornithologists’ Union. Ithaca, NY. (co-presenter of poster with G. Ballard).
-
 ## __Research Symposia Organization__
 
 `2020`*Co-organizer* with Matthew. D. Johnson. Lightning Symposium and Presenter Panel: Protecting and restoring bird habitat in the agricultural matrix: net benefits for birds and farmers. 7th North American Ornithological Conference. Virtual conference.
@@ -335,11 +297,9 @@ Friendly Cities*. The Wildlife Society 27th Annual Conference. Virtual Conferenc
 
 ## __Peer Review__
 
-[*Publons Summary*](https://publons.com/researcher/1290983/sacha-heath/peer-review/).
+`2021-2022` Associate Editor, [Ecology and Evolution](https://onlinelibrary.wiley.com/journal/20457758)
 
-`Sep 2021 - present` Associate Editor, [Ecology and Evolution](https://onlinelibrary.wiley.com/journal/20457758)
-
-Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Ecology & Evolution; Frontiers in Ecology and the Environment; Global Ecology and Biogeography; Global Ecology and Conservation; Great Basin Birds; Integrative Zoology; International Journal of Pest Management; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; Ornithological Applications; PLOS ONE; Royal Society Open Science; Science Advances 
+Agriculture, Ecosystems & Environment; Austral Ecology; Biological Conservation; California Agriculture; Ecological Applications; Ecology & Evolution; Ecosphere; Frontiers in Ecology and the Environment; Global Ecology and Biogeography; Global Ecology and Conservation; Great Basin Birds; Integrative Zoology; International Journal of Pest Management; Journal of Applied Ecology; Journal of Field Ornithology; Landscape Research; Ornithological Applications; PLOS ONE; Royal Society Open Science; Science Advances 
 
 ## __Society Membership__
 
@@ -478,7 +438,9 @@ Heath, S. K. 2000. [Eastern Sierra Riparian Songbird Conservation Project: using
 
 Heath, S. K. 2000. [Great Basin Riparian: songbird enhancement east of the Sierra](https://www.sachaheath.com/uploads/1/6/9/8/16984014/heath_2000_observer121.pdf). Observer: Quarterly Journal of PRBO Conservation Science. Number 121. Summer.
 
-### __Research Media Coverage__
+### __Research & Professional Media Coverage__
+
+Margaretten, Emily, (2025, October 13). [Mountain View unveils plan to improve biodiversity and tree canopy: Parks and Recreation commissioners praise long-awaited plan but say it lacks necessary urgency](https://www.mv-voice.com/environment/2025/10/13/mountain-view-unveils-plan-to-improve-biodiversity-and-tree-canopy/). Mountain View Voice.
 
 Breining, Greg. (2021, Summer 21). [At orchards and vineyards, birds are outperforming pesticides](https://www.allaboutbirds.org/news/at-orchards-and-vineyards-birds-are-outperforming-pesticides/). Living Bird.
 
