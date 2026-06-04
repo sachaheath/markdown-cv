@@ -14,7 +14,7 @@ title: Sacha Heath
 
 ## __Research Interests__
 
-urban ecology | multi-benefit quantification | community, landscape, & avian ecology | biodiversity conservation | conservation effectiveness | trophic interactions | agroecology | habitat selection 
+urban ecology; multi-benefit quantification; community, landscape, & avian ecology; biodiversity conservation; conservation effectiveness; trophic interactions; agroecology; habitat selection 
 
 ## __Currently__
 
